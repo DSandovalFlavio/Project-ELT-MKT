@@ -1,0 +1,1001 @@
+Company,Campaign_Type,Target_Audience,Duration,Conversion_Rate,Acquisition_Cost,ROI,Location,Language,Clicks,Impressions,Engagement_Score,Customer_Segment,Date
+DataTech Solutions,Search,Women 35-44,30 days,0.01,16753.67,3.86,Miami,Spanish,1977,10162,7,Fashionistas,2023-07-03
+DataTech Solutions,Display,Women 35-44,15 days,0.13,12299.23,4.01,Washington D.C.,English,1724,19224,9,Foodies,2023-07-27
+Innovate Industries,Display,Men 18-24,45 days,0.05,15060.07,2.77,Washington D.C.,Spanish,1898,7552,4,Outdoor Adventurers,2023-07-07
+NexGen Systems,Search,Women 35-44,15 days,0.02,10995.2,4.56,Washington D.C.,French,361,17918,7,Tech Enthusiasts,2023-07-09
+Alpha Innovations,Email,Men 18-24,60 days,0.08,11828.13,2.52,Nueva York,German,1874,1929,10,Outdoor Adventurers,2023-07-30
+NexGen Systems,Email,Men 25-34,15 days,0.08,18477.06,7.88,Los Ángeles,Spanish,552,17441,3,Fashionistas,2023-07-20
+DataTech Solutions,Search,All Ages,15 days,0.02,15637.43,4.37,Washington D.C.,Spanish,965,15367,4,Foodies,2023-07-12
+NexGen Systems,Search,All Ages,45 days,0.06,7495.17,5.74,Chicago,Spanish,918,1473,6,Foodies,2023-07-28
+DataTech Solutions,Social Media,Women 35-44,60 days,0.05,15358.05,5.92,San Francisco,Mandarin,1647,11429,4,Foodies,2023-07-07
+TechCorp,Social Media,All Ages,30 days,0.05,19549.76,6.47,Chicago,English,148,18913,6,Foodies,2023-07-24
+Innovate Industries,Influencer,Men 25-34,30 days,0.02,19332.2,6.63,Seattle,French,477,5441,6,Fashionistas,2023-07-30
+DataTech Solutions,Social Media,Women 25-34,60 days,0.11,9668.9,5.37,Washington D.C.,Mandarin,939,7065,3,Health & Wellness,2023-07-25
+Alpha Innovations,Search,Women 35-44,15 days,0.01,12736.26,3.88,Miami,English,962,2921,1,Health & Wellness,2023-07-24
+TechCorp,Display,Men 18-24,15 days,0.02,19649.37,5.99,Boston,German,1808,16744,3,Health & Wellness,2023-07-06
+Innovate Industries,Influencer,Men 25-34,45 days,0.04,7205.94,2.54,Los Ángeles,Mandarin,1843,6997,3,Tech Enthusiasts,2023-07-12
+TechCorp,Search,Women 35-44,45 days,0.03,19407.91,3.66,Los Ángeles,Spanish,1553,19941,3,Outdoor Adventurers,2023-07-20
+Alpha Innovations,Social Media,Men 18-24,30 days,0.13,9200.59,2.73,Miami,German,1121,3040,5,Fashionistas,2023-07-08
+DataTech Solutions,Display,Men 18-24,15 days,0.1,10106.29,2.04,Boston,Spanish,1598,17298,8,Foodies,2023-07-03
+Alpha Innovations,Search,All Ages,60 days,0.15,8664.43,4.33,Boston,French,1406,17249,5,Health & Wellness,2023-07-05
+DataTech Solutions,Email,Women 35-44,30 days,0.01,16964.41,7.72,Las Vegas,Mandarin,1521,10458,5,Fashionistas,2023-07-25
+TechCorp,Search,Men 25-34,60 days,0.07,17454.92,7.83,Nueva York,English,1334,6989,4,Foodies,2023-07-10
+Innovate Industries,Email,Women 35-44,30 days,0.1,8779.92,2.67,Boston,German,795,19485,8,Foodies,2023-07-11
+DataTech Solutions,Display,Men 18-24,60 days,0.13,6590.0,3.96,Nueva York,French,885,2617,8,Tech Enthusiasts,2023-07-28
+NexGen Systems,Social Media,Women 35-44,30 days,0.14,19766.36,7.32,Boston,Mandarin,818,5442,9,Health & Wellness,2023-07-06
+TechCorp,Email,Men 18-24,60 days,0.07,5419.81,3.12,Chicago,Mandarin,133,17484,4,Outdoor Adventurers,2023-07-12
+Innovate Industries,Social Media,All Ages,45 days,0.11,10084.27,5.89,San Francisco,Spanish,1883,12024,2,Fashionistas,2023-07-14
+NexGen Systems,Email,Men 25-34,60 days,0.05,12046.86,6.46,Washington D.C.,Spanish,305,12810,10,Tech Enthusiasts,2023-07-24
+Alpha Innovations,Display,All Ages,30 days,0.15,6374.54,4.95,Las Vegas,Spanish,716,2432,1,Health & Wellness,2023-07-01
+DataTech Solutions,Search,Men 18-24,15 days,0.03,5728.42,5.32,Chicago,English,955,11722,6,Health & Wellness,2023-07-16
+TechCorp,Email,Men 25-34,45 days,0.05,19484.04,4.69,Los Ángeles,Mandarin,467,3314,5,Tech Enthusiasts,2023-07-28
+TechCorp,Display,Women 25-34,15 days,0.14,15141.97,2.71,Boston,German,1894,18453,7,Outdoor Adventurers,2023-07-12
+TechCorp,Search,All Ages,60 days,0.05,6915.25,2.74,Boston,Mandarin,990,12242,6,Health & Wellness,2023-07-09
+Innovate Industries,Influencer,Women 25-34,60 days,0.08,16338.18,3.91,Chicago,French,1881,4503,9,Tech Enthusiasts,2023-07-15
+DataTech Solutions,Search,Men 25-34,45 days,0.11,11097.32,7.92,Washington D.C.,Mandarin,137,7311,6,Fashionistas,2023-07-15
+DataTech Solutions,Display,Men 18-24,60 days,0.08,15582.11,3.94,Los Ángeles,French,1963,12570,6,Foodies,2023-07-01
+DataTech Solutions,Social Media,Men 18-24,30 days,0.08,14824.72,7.0,Nueva Orleans,Mandarin,480,5177,7,Tech Enthusiasts,2023-07-06
+NexGen Systems,Display,Women 35-44,15 days,0.07,9098.86,2.74,Boston,English,269,1363,6,Foodies,2023-07-23
+DataTech Solutions,Social Media,Men 18-24,60 days,0.14,15752.51,6.56,Nueva York,English,240,9268,8,Tech Enthusiasts,2023-07-17
+TechCorp,Influencer,Men 25-34,30 days,0.04,11534.13,5.79,Washington D.C.,Spanish,764,14041,10,Outdoor Adventurers,2023-07-29
+Alpha Innovations,Display,Men 18-24,30 days,0.07,14160.64,4.85,Chicago,French,1306,9684,4,Tech Enthusiasts,2023-07-01
+Innovate Industries,Email,Men 25-34,30 days,0.04,7203.07,7.3,Chicago,English,895,12203,5,Foodies,2023-07-24
+DataTech Solutions,Social Media,Men 25-34,60 days,0.06,8738.78,5.62,Seattle,German,1920,8065,7,Fashionistas,2023-07-01
+TechCorp,Display,Men 18-24,15 days,0.06,11594.09,7.94,Seattle,Spanish,1757,6102,6,Fashionistas,2023-07-05
+DataTech Solutions,Influencer,Women 25-34,30 days,0.1,12825.75,5.4,Las Vegas,French,214,17492,10,Outdoor Adventurers,2023-07-25
+DataTech Solutions,Email,Men 25-34,15 days,0.1,15821.99,4.06,Miami,English,353,8575,8,Foodies,2023-07-20
+TechCorp,Social Media,All Ages,30 days,0.1,12013.06,4.71,Seattle,German,1566,10658,5,Fashionistas,2023-07-27
+Innovate Industries,Display,Men 25-34,60 days,0.14,6364.2,3.22,Washington D.C.,Spanish,1274,17918,5,Tech Enthusiasts,2023-07-21
+Alpha Innovations,Email,Men 25-34,30 days,0.14,8944.62,5.23,Nueva York,Mandarin,250,11934,7,Fashionistas,2023-07-20
+NexGen Systems,Display,Women 35-44,60 days,0.01,9616.48,7.37,Chicago,French,1554,7490,2,Health & Wellness,2023-07-23
+TechCorp,Social Media,Men 18-24,30 days,0.05,14053.75,7.81,Nueva Orleans,French,148,19789,1,Foodies,2023-07-20
+Innovate Industries,Search,Women 35-44,30 days,0.15,17341.14,3.14,San Francisco,English,885,3150,7,Foodies,2023-07-05
+NexGen Systems,Search,Women 25-34,60 days,0.05,14536.03,2.97,Boston,Mandarin,981,9068,3,Tech Enthusiasts,2023-07-30
+TechCorp,Display,All Ages,60 days,0.06,19494.94,5.35,San Francisco,Mandarin,351,2847,6,Health & Wellness,2023-07-01
+Innovate Industries,Influencer,Men 25-34,15 days,0.11,16533.96,6.04,Nueva Orleans,Mandarin,1947,10243,9,Health & Wellness,2023-07-23
+DataTech Solutions,Influencer,Men 25-34,30 days,0.08,16770.72,6.75,Seattle,English,770,16828,5,Health & Wellness,2023-07-03
+Alpha Innovations,Social Media,Women 35-44,15 days,0.02,19824.04,3.36,Los Ángeles,German,1213,14531,6,Foodies,2023-07-24
+Alpha Innovations,Search,Men 18-24,15 days,0.15,15444.13,5.88,Washington D.C.,English,1273,19011,2,Fashionistas,2023-07-16
+TechCorp,Search,Men 25-34,30 days,0.15,15070.69,2.71,Nueva Orleans,French,1316,6056,1,Fashionistas,2023-07-12
+NexGen Systems,Display,Women 25-34,60 days,0.13,7945.93,6.77,Chicago,English,495,8816,3,Foodies,2023-07-13
+TechCorp,Email,Men 25-34,15 days,0.08,17014.05,6.01,San Francisco,English,499,11752,1,Tech Enthusiasts,2023-07-04
+Innovate Industries,Social Media,Women 25-34,45 days,0.1,13397.45,7.93,Nueva Orleans,German,230,13835,5,Fashionistas,2023-07-06
+NexGen Systems,Search,Women 25-34,45 days,0.03,16530.48,4.44,Miami,Mandarin,840,2988,10,Foodies,2023-07-07
+NexGen Systems,Email,Women 25-34,30 days,0.06,11511.08,2.04,Miami,German,849,12573,3,Fashionistas,2023-07-03
+NexGen Systems,Email,Women 25-34,45 days,0.03,19497.56,4.35,San Francisco,Spanish,787,7627,2,Health & Wellness,2023-07-10
+Alpha Innovations,Search,All Ages,60 days,0.1,8158.37,5.71,Las Vegas,French,1586,10980,6,Fashionistas,2023-07-14
+DataTech Solutions,Search,Women 25-34,45 days,0.12,8636.89,5.57,Seattle,English,1648,8383,9,Health & Wellness,2023-07-13
+TechCorp,Display,Women 35-44,45 days,0.08,7906.74,5.48,San Francisco,English,667,12606,6,Foodies,2023-07-08
+TechCorp,Email,Men 18-24,30 days,0.08,13876.92,4.42,Los Ángeles,Spanish,834,8964,6,Fashionistas,2023-07-18
+TechCorp,Email,Men 18-24,30 days,0.02,6526.19,6.62,Boston,English,312,1407,3,Fashionistas,2023-07-10
+DataTech Solutions,Display,Women 25-34,30 days,0.07,17445.24,2.32,Las Vegas,German,1194,18743,10,Tech Enthusiasts,2023-07-30
+Alpha Innovations,Email,Women 25-34,60 days,0.11,8352.56,4.94,Washington D.C.,Mandarin,1867,8627,5,Tech Enthusiasts,2023-07-29
+Alpha Innovations,Social Media,Men 18-24,45 days,0.13,12139.76,7.51,Las Vegas,German,870,18626,7,Foodies,2023-07-30
+DataTech Solutions,Display,Women 25-34,30 days,0.04,15183.59,7.07,Washington D.C.,German,1841,11564,6,Tech Enthusiasts,2023-07-12
+Innovate Industries,Social Media,Men 18-24,60 days,0.12,10424.94,3.16,Seattle,Spanish,1486,8083,5,Foodies,2023-07-14
+DataTech Solutions,Influencer,Men 25-34,45 days,0.12,6473.05,5.78,Chicago,English,970,18774,10,Outdoor Adventurers,2023-07-24
+Alpha Innovations,Display,All Ages,60 days,0.09,12425.55,3.9,Seattle,Spanish,957,2936,10,Fashionistas,2023-07-20
+TechCorp,Email,Women 25-34,30 days,0.14,15592.88,3.88,Los Ángeles,English,314,16651,10,Tech Enthusiasts,2023-07-23
+TechCorp,Search,Women 25-34,45 days,0.06,8151.36,4.85,Washington D.C.,German,1815,12048,9,Fashionistas,2023-07-25
+Innovate Industries,Social Media,Women 25-34,60 days,0.1,14705.38,6.49,Las Vegas,English,1407,6886,9,Health & Wellness,2023-07-20
+Innovate Industries,Display,Women 35-44,30 days,0.03,17810.46,2.95,Nueva Orleans,English,1578,7899,2,Foodies,2023-07-16
+Innovate Industries,Search,Women 25-34,15 days,0.14,8828.65,7.66,Boston,Mandarin,153,9756,8,Fashionistas,2023-07-19
+NexGen Systems,Social Media,Men 18-24,45 days,0.1,8581.91,3.44,Los Ángeles,Mandarin,733,8559,9,Tech Enthusiasts,2023-07-01
+Alpha Innovations,Social Media,Men 18-24,45 days,0.05,8951.92,4.65,Los Ángeles,Spanish,268,11065,9,Tech Enthusiasts,2023-07-04
+Innovate Industries,Email,Women 35-44,45 days,0.05,13017.59,3.83,Boston,Mandarin,758,17395,8,Outdoor Adventurers,2023-07-14
+TechCorp,Display,Women 25-34,45 days,0.05,15898.52,5.12,Miami,French,401,1669,3,Outdoor Adventurers,2023-07-19
+DataTech Solutions,Display,All Ages,45 days,0.05,14255.73,7.58,Nueva York,German,550,10325,6,Outdoor Adventurers,2023-07-25
+Innovate Industries,Social Media,Men 18-24,15 days,0.1,14062.47,6.4,Washington D.C.,Spanish,1440,4300,7,Foodies,2023-07-12
+Alpha Innovations,Search,All Ages,30 days,0.13,6150.52,7.71,Nueva Orleans,Mandarin,539,14113,9,Foodies,2023-07-27
+Innovate Industries,Influencer,Women 35-44,60 days,0.07,17734.58,6.96,San Francisco,Spanish,750,2618,3,Tech Enthusiasts,2023-07-04
+DataTech Solutions,Social Media,Men 18-24,15 days,0.11,16183.2,4.46,Seattle,German,565,16788,7,Tech Enthusiasts,2023-07-28
+Innovate Industries,Social Media,Men 18-24,15 days,0.04,11871.58,3.45,Chicago,Spanish,1389,1899,8,Outdoor Adventurers,2023-07-12
+Alpha Innovations,Influencer,Women 35-44,30 days,0.14,10906.99,4.93,Miami,German,1471,3479,1,Foodies,2023-07-11
+Innovate Industries,Email,Men 18-24,45 days,0.07,13915.41,4.18,Washington D.C.,Mandarin,1921,14345,4,Health & Wellness,2023-07-17
+NexGen Systems,Influencer,All Ages,15 days,0.14,5672.74,4.11,Seattle,Mandarin,1969,13590,5,Outdoor Adventurers,2023-07-02
+Innovate Industries,Social Media,Men 18-24,45 days,0.07,9227.35,5.72,Washington D.C.,French,1300,4925,3,Foodies,2023-07-06
+NexGen Systems,Social Media,Men 25-34,30 days,0.1,13150.46,2.1,Miami,English,282,12598,3,Fashionistas,2023-07-04
+Alpha Innovations,Influencer,All Ages,45 days,0.09,16283.57,6.34,Boston,Spanish,746,15479,7,Outdoor Adventurers,2023-07-07
+Alpha Innovations,Search,Men 25-34,15 days,0.04,6779.09,4.03,Washington D.C.,English,528,2898,9,Fashionistas,2023-07-19
+Alpha Innovations,Display,Women 25-34,30 days,0.02,6052.83,2.09,Nueva Orleans,German,103,19663,5,Foodies,2023-07-12
+DataTech Solutions,Search,Women 35-44,45 days,0.08,10123.53,5.73,San Francisco,French,409,6547,6,Outdoor Adventurers,2023-07-05
+NexGen Systems,Social Media,Men 18-24,15 days,0.01,9013.06,4.01,Boston,Spanish,568,5442,5,Outdoor Adventurers,2023-07-26
+TechCorp,Social Media,Men 18-24,60 days,0.07,10492.5,3.45,Nueva York,German,1784,15637,4,Outdoor Adventurers,2023-07-04
+Innovate Industries,Social Media,Men 25-34,45 days,0.09,19952.28,6.96,Seattle,French,520,15576,1,Tech Enthusiasts,2023-07-19
+DataTech Solutions,Email,Men 18-24,30 days,0.14,13775.48,6.28,Nueva Orleans,French,267,8053,5,Outdoor Adventurers,2023-07-30
+TechCorp,Email,Men 18-24,45 days,0.15,19803.53,6.76,Washington D.C.,English,1197,9564,7,Outdoor Adventurers,2023-07-18
+NexGen Systems,Email,All Ages,60 days,0.07,9686.53,3.55,Las Vegas,Mandarin,1583,15583,10,Outdoor Adventurers,2023-07-25
+DataTech Solutions,Search,Men 18-24,30 days,0.08,13270.68,7.3,Los Ángeles,Mandarin,425,15927,9,Tech Enthusiasts,2023-07-23
+NexGen Systems,Social Media,Men 18-24,60 days,0.08,18500.6,5.53,Las Vegas,Spanish,709,5781,8,Foodies,2023-07-30
+NexGen Systems,Display,Men 25-34,45 days,0.05,11746.47,5.52,Nueva Orleans,English,1894,12525,7,Outdoor Adventurers,2023-07-24
+DataTech Solutions,Social Media,Women 35-44,45 days,0.04,5111.79,5.02,Nueva York,English,696,13544,4,Outdoor Adventurers,2023-07-16
+Innovate Industries,Email,Men 25-34,15 days,0.12,11292.45,7.43,Boston,Mandarin,199,17377,4,Fashionistas,2023-07-25
+Innovate Industries,Social Media,Women 35-44,45 days,0.01,11520.29,4.05,Chicago,Spanish,385,7584,10,Outdoor Adventurers,2023-07-27
+DataTech Solutions,Influencer,All Ages,30 days,0.11,14090.51,3.55,Seattle,English,510,6243,9,Foodies,2023-07-24
+TechCorp,Email,Men 18-24,60 days,0.08,13460.86,4.34,Nueva York,French,509,18110,10,Fashionistas,2023-07-05
+NexGen Systems,Social Media,Women 25-34,60 days,0.12,17436.62,7.33,Seattle,German,631,8715,4,Health & Wellness,2023-07-13
+NexGen Systems,Search,Men 18-24,60 days,0.02,6964.56,6.29,Chicago,Spanish,1965,7865,5,Outdoor Adventurers,2023-07-26
+NexGen Systems,Social Media,All Ages,30 days,0.13,9421.0,6.57,San Francisco,German,800,2174,4,Fashionistas,2023-07-03
+TechCorp,Search,Men 25-34,60 days,0.1,16026.33,4.04,Chicago,Spanish,1049,4302,3,Outdoor Adventurers,2023-07-17
+TechCorp,Social Media,Men 18-24,45 days,0.08,8573.59,5.41,Seattle,Spanish,1704,14530,10,Health & Wellness,2023-07-02
+Innovate Industries,Influencer,Women 25-34,30 days,0.11,5936.64,4.63,Chicago,German,719,10330,9,Health & Wellness,2023-07-17
+Innovate Industries,Email,Women 35-44,60 days,0.06,15190.52,4.42,Nueva York,Mandarin,1679,11849,3,Fashionistas,2023-07-13
+DataTech Solutions,Influencer,Men 18-24,60 days,0.11,6397.19,7.36,Nueva Orleans,Mandarin,246,3499,6,Foodies,2023-07-01
+TechCorp,Search,All Ages,30 days,0.09,7198.56,2.64,Nueva Orleans,Mandarin,649,18073,7,Outdoor Adventurers,2023-07-22
+TechCorp,Search,Women 25-34,15 days,0.03,13254.37,3.28,San Francisco,French,1539,11271,2,Health & Wellness,2023-07-22
+TechCorp,Influencer,Men 18-24,60 days,0.08,17861.37,2.03,San Francisco,German,1744,7076,5,Outdoor Adventurers,2023-07-29
+Alpha Innovations,Search,Men 25-34,60 days,0.09,9086.31,4.34,Boston,Spanish,581,10767,2,Fashionistas,2023-07-27
+TechCorp,Social Media,Men 25-34,30 days,0.04,14130.26,5.29,Nueva Orleans,English,104,4924,7,Outdoor Adventurers,2023-07-25
+TechCorp,Email,Women 25-34,15 days,0.01,6948.58,5.67,Boston,French,1222,13738,6,Fashionistas,2023-07-17
+DataTech Solutions,Email,All Ages,45 days,0.15,12338.42,3.45,Chicago,Mandarin,1776,4826,5,Tech Enthusiasts,2023-07-11
+Innovate Industries,Email,Men 18-24,60 days,0.03,19232.83,2.21,Boston,Spanish,1543,9729,5,Fashionistas,2023-07-28
+Alpha Innovations,Search,Women 35-44,15 days,0.11,10948.06,7.79,Los Ángeles,English,1438,19120,7,Health & Wellness,2023-07-20
+NexGen Systems,Social Media,All Ages,30 days,0.04,15926.71,5.49,San Francisco,Mandarin,448,9155,5,Tech Enthusiasts,2023-07-07
+Alpha Innovations,Search,Men 18-24,45 days,0.12,9035.96,3.17,Boston,Spanish,1032,11562,10,Tech Enthusiasts,2023-07-30
+NexGen Systems,Search,Men 25-34,15 days,0.02,14580.76,4.73,Las Vegas,English,1499,3249,10,Health & Wellness,2023-07-05
+DataTech Solutions,Influencer,All Ages,30 days,0.08,12496.01,5.05,Washington D.C.,Spanish,1821,6232,10,Health & Wellness,2023-07-04
+DataTech Solutions,Email,All Ages,45 days,0.12,15367.12,7.65,Washington D.C.,English,499,19814,3,Foodies,2023-07-30
+Alpha Innovations,Influencer,Men 25-34,30 days,0.03,5719.03,7.57,Boston,English,1601,7265,4,Tech Enthusiasts,2023-07-13
+Alpha Innovations,Influencer,All Ages,15 days,0.05,8994.23,6.04,Miami,German,1700,6007,4,Health & Wellness,2023-07-19
+TechCorp,Influencer,Men 25-34,45 days,0.11,13190.99,7.38,Boston,German,1372,6521,4,Foodies,2023-07-20
+Alpha Innovations,Influencer,Women 35-44,60 days,0.13,12489.46,2.04,Nueva Orleans,Mandarin,899,7133,10,Fashionistas,2023-07-17
+DataTech Solutions,Social Media,Women 35-44,30 days,0.05,18290.67,6.3,Los Ángeles,French,669,16811,9,Health & Wellness,2023-07-25
+TechCorp,Influencer,All Ages,15 days,0.03,7197.67,6.65,Los Ángeles,Mandarin,1950,8636,2,Tech Enthusiasts,2023-07-06
+Innovate Industries,Social Media,Women 25-34,15 days,0.14,15734.23,5.06,Las Vegas,French,1638,14744,7,Health & Wellness,2023-07-20
+Innovate Industries,Influencer,Women 25-34,30 days,0.14,13424.85,4.45,Boston,English,1829,17974,8,Outdoor Adventurers,2023-07-16
+Innovate Industries,Email,All Ages,30 days,0.09,14125.48,5.73,Nueva Orleans,English,1030,7108,9,Tech Enthusiasts,2023-07-03
+Alpha Innovations,Display,All Ages,45 days,0.09,7279.67,4.95,Las Vegas,Spanish,1112,11936,2,Outdoor Adventurers,2023-07-24
+Innovate Industries,Display,All Ages,45 days,0.1,10997.84,2.48,Nueva York,Mandarin,1188,19018,8,Foodies,2023-07-02
+Alpha Innovations,Social Media,Women 35-44,30 days,0.04,5333.65,3.98,San Francisco,French,1220,18832,2,Tech Enthusiasts,2023-07-23
+Alpha Innovations,Influencer,Women 25-34,30 days,0.04,6796.43,4.31,Nueva Orleans,Spanish,1277,4178,10,Outdoor Adventurers,2023-07-10
+DataTech Solutions,Social Media,Men 18-24,60 days,0.14,11069.93,2.07,Los Ángeles,French,1614,15897,4,Tech Enthusiasts,2023-07-23
+DataTech Solutions,Influencer,Men 25-34,60 days,0.14,7127.18,6.57,Nueva Orleans,Mandarin,1180,1467,1,Foodies,2023-07-28
+TechCorp,Email,All Ages,60 days,0.01,17308.51,2.14,Chicago,French,343,18252,7,Fashionistas,2023-07-06
+DataTech Solutions,Influencer,All Ages,60 days,0.08,17517.54,6.15,Boston,Mandarin,757,8418,4,Foodies,2023-07-09
+NexGen Systems,Display,Men 25-34,45 days,0.14,8837.03,7.38,Washington D.C.,German,1204,15582,4,Tech Enthusiasts,2023-07-29
+DataTech Solutions,Search,Men 25-34,15 days,0.03,10525.62,3.25,Miami,English,601,19055,1,Fashionistas,2023-07-28
+Alpha Innovations,Email,Women 35-44,45 days,0.02,6806.93,6.81,Los Ángeles,English,1440,14166,7,Tech Enthusiasts,2023-07-04
+Alpha Innovations,Email,Women 35-44,45 days,0.02,10648.63,5.56,Washington D.C.,French,1925,9585,6,Fashionistas,2023-07-02
+TechCorp,Influencer,Women 25-34,60 days,0.02,14757.34,2.82,Boston,German,424,3029,10,Tech Enthusiasts,2023-07-08
+Innovate Industries,Display,Men 18-24,45 days,0.12,17779.79,6.05,Nueva York,Mandarin,409,9690,6,Health & Wellness,2023-07-26
+TechCorp,Search,Women 25-34,60 days,0.07,9607.99,4.36,Washington D.C.,French,1636,12965,1,Tech Enthusiasts,2023-07-28
+DataTech Solutions,Search,Women 35-44,30 days,0.1,9188.08,4.01,Boston,Spanish,595,15266,8,Foodies,2023-07-04
+TechCorp,Influencer,Women 35-44,45 days,0.04,19097.36,7.31,Seattle,English,1286,14579,6,Health & Wellness,2023-07-03
+Innovate Industries,Influencer,Men 18-24,30 days,0.15,14108.54,2.72,Nueva Orleans,Mandarin,1773,15666,5,Outdoor Adventurers,2023-07-30
+Alpha Innovations,Search,Men 18-24,45 days,0.07,8207.56,6.61,Nueva York,French,1602,9787,7,Fashionistas,2023-07-30
+DataTech Solutions,Social Media,Women 35-44,60 days,0.05,9210.62,7.05,Chicago,German,1306,19922,7,Health & Wellness,2023-07-03
+TechCorp,Display,All Ages,45 days,0.06,13407.71,7.16,Washington D.C.,German,355,17313,5,Fashionistas,2023-07-25
+NexGen Systems,Search,Women 25-34,15 days,0.08,10554.1,5.32,Seattle,French,1095,3264,1,Foodies,2023-07-03
+Innovate Industries,Search,Men 18-24,60 days,0.09,9510.22,5.3,Las Vegas,French,157,8461,3,Foodies,2023-07-14
+TechCorp,Influencer,All Ages,30 days,0.06,13422.98,7.08,Nueva York,English,818,9863,6,Fashionistas,2023-07-04
+TechCorp,Email,Women 35-44,15 days,0.05,13585.51,7.47,Boston,French,235,18988,6,Fashionistas,2023-07-10
+DataTech Solutions,Display,Men 18-24,15 days,0.04,16067.47,4.14,Nueva Orleans,French,626,10564,2,Foodies,2023-07-03
+NexGen Systems,Search,Men 25-34,30 days,0.03,9047.68,3.07,Chicago,German,1692,16501,1,Tech Enthusiasts,2023-07-12
+DataTech Solutions,Display,Men 25-34,30 days,0.09,10941.42,5.02,Washington D.C.,Mandarin,992,3742,2,Fashionistas,2023-07-07
+Alpha Innovations,Influencer,Men 25-34,60 days,0.03,15323.74,6.17,San Francisco,English,497,5396,5,Outdoor Adventurers,2023-07-16
+DataTech Solutions,Email,Women 25-34,15 days,0.01,8106.98,4.77,Nueva York,German,269,12927,1,Tech Enthusiasts,2023-07-10
+NexGen Systems,Search,All Ages,45 days,0.12,13861.55,5.27,Boston,French,1263,6600,2,Tech Enthusiasts,2023-07-17
+TechCorp,Influencer,All Ages,30 days,0.05,10913.43,4.23,San Francisco,Mandarin,578,12345,8,Foodies,2023-07-17
+TechCorp,Influencer,Women 25-34,45 days,0.09,8693.23,4.18,Washington D.C.,English,829,14496,2,Health & Wellness,2023-07-04
+Alpha Innovations,Display,Women 35-44,15 days,0.07,19257.99,3.79,Los Ángeles,German,1506,7636,3,Health & Wellness,2023-07-07
+NexGen Systems,Search,Men 25-34,15 days,0.1,16120.72,2.1,Washington D.C.,Mandarin,538,11680,3,Tech Enthusiasts,2023-07-09
+NexGen Systems,Search,Women 25-34,30 days,0.01,12668.57,6.49,Seattle,Spanish,474,12864,8,Foodies,2023-07-28
+DataTech Solutions,Influencer,All Ages,30 days,0.15,16385.55,6.08,Nueva York,English,1386,3637,8,Health & Wellness,2023-07-28
+DataTech Solutions,Display,All Ages,45 days,0.05,8172.82,5.72,San Francisco,French,1269,10151,2,Tech Enthusiasts,2023-07-02
+TechCorp,Social Media,Men 25-34,45 days,0.06,11006.93,3.51,Las Vegas,French,275,10256,3,Health & Wellness,2023-07-21
+Innovate Industries,Display,Women 35-44,60 days,0.15,8671.95,7.88,Boston,German,661,18008,3,Fashionistas,2023-07-15
+Alpha Innovations,Influencer,Women 25-34,45 days,0.09,17255.33,7.73,Seattle,Mandarin,283,17616,6,Outdoor Adventurers,2023-07-23
+DataTech Solutions,Influencer,Men 25-34,60 days,0.08,18017.41,5.27,Nueva Orleans,English,313,7276,2,Foodies,2023-07-27
+DataTech Solutions,Search,All Ages,15 days,0.04,11923.91,4.38,Washington D.C.,French,687,4504,9,Outdoor Adventurers,2023-07-16
+Innovate Industries,Social Media,Women 25-34,15 days,0.12,7132.85,6.69,Seattle,English,730,13421,5,Health & Wellness,2023-07-11
+Innovate Industries,Email,Women 35-44,60 days,0.12,17144.67,7.2,Nueva York,French,1749,1106,4,Health & Wellness,2023-07-18
+TechCorp,Display,Women 35-44,15 days,0.12,5117.57,4.67,Seattle,German,1975,19721,6,Outdoor Adventurers,2023-07-08
+NexGen Systems,Search,Men 25-34,15 days,0.07,14907.82,7.56,Los Ángeles,Mandarin,1814,9772,1,Health & Wellness,2023-07-14
+Innovate Industries,Social Media,Women 25-34,45 days,0.04,9865.68,5.59,Nueva York,French,1161,12633,1,Health & Wellness,2023-07-12
+TechCorp,Search,Women 25-34,60 days,0.13,15041.12,5.53,Nueva York,English,1621,1593,3,Foodies,2023-07-22
+DataTech Solutions,Social Media,Men 25-34,60 days,0.08,7402.3,3.76,Nueva York,Mandarin,313,14603,4,Health & Wellness,2023-07-11
+NexGen Systems,Influencer,Men 25-34,30 days,0.05,7787.55,6.63,San Francisco,German,581,3176,7,Fashionistas,2023-07-24
+Innovate Industries,Social Media,Women 35-44,15 days,0.06,16525.75,2.6,Boston,Mandarin,1262,4694,3,Fashionistas,2023-07-10
+TechCorp,Social Media,All Ages,60 days,0.14,16368.32,5.85,Miami,English,1403,13604,1,Foodies,2023-07-25
+DataTech Solutions,Search,Men 25-34,60 days,0.12,7987.0,3.42,Seattle,Mandarin,1006,1332,5,Tech Enthusiasts,2023-07-04
+TechCorp,Social Media,Men 25-34,30 days,0.12,18647.74,7.32,Chicago,Spanish,1736,6750,7,Foodies,2023-07-29
+DataTech Solutions,Social Media,Women 35-44,45 days,0.1,16493.93,3.63,San Francisco,Spanish,180,2659,6,Foodies,2023-07-02
+NexGen Systems,Social Media,Women 25-34,60 days,0.13,18463.52,7.27,Los Ángeles,German,1254,6515,6,Health & Wellness,2023-07-16
+TechCorp,Display,Men 25-34,30 days,0.02,11030.98,4.14,Seattle,Mandarin,1929,5942,6,Outdoor Adventurers,2023-07-18
+DataTech Solutions,Influencer,Men 25-34,15 days,0.06,12271.66,3.3,Las Vegas,Mandarin,1916,6385,1,Fashionistas,2023-07-15
+TechCorp,Email,Women 35-44,60 days,0.1,8120.41,7.42,Nueva York,German,1610,12126,9,Outdoor Adventurers,2023-07-07
+TechCorp,Email,All Ages,15 days,0.02,19091.28,6.87,Las Vegas,Spanish,1076,6184,2,Outdoor Adventurers,2023-07-10
+Innovate Industries,Social Media,All Ages,30 days,0.07,7415.18,7.23,Las Vegas,English,1396,15140,10,Health & Wellness,2023-07-28
+Innovate Industries,Search,Women 25-34,45 days,0.05,9004.74,6.67,Miami,Mandarin,1668,14138,4,Health & Wellness,2023-07-24
+TechCorp,Influencer,All Ages,30 days,0.01,11671.12,5.79,Washington D.C.,English,222,13054,6,Health & Wellness,2023-07-23
+DataTech Solutions,Influencer,All Ages,15 days,0.12,7060.0,6.39,Boston,English,1920,18834,10,Tech Enthusiasts,2023-07-15
+DataTech Solutions,Display,Men 25-34,15 days,0.02,7931.48,2.92,Las Vegas,English,1728,5084,9,Tech Enthusiasts,2023-07-28
+NexGen Systems,Search,Women 35-44,45 days,0.08,18554.74,2.31,Miami,German,1440,9575,7,Outdoor Adventurers,2023-07-25
+NexGen Systems,Display,Women 25-34,60 days,0.06,18815.88,7.47,Boston,German,1804,19418,6,Tech Enthusiasts,2023-07-27
+Innovate Industries,Social Media,Men 18-24,45 days,0.04,8274.12,4.11,Las Vegas,Mandarin,1503,12798,9,Foodies,2023-07-05
+NexGen Systems,Influencer,Men 25-34,45 days,0.14,15725.54,6.66,San Francisco,French,1349,4384,8,Outdoor Adventurers,2023-07-30
+DataTech Solutions,Social Media,All Ages,15 days,0.07,17453.37,7.84,Nueva Orleans,German,271,15062,6,Fashionistas,2023-07-19
+Innovate Industries,Social Media,All Ages,15 days,0.12,19510.02,6.21,Chicago,German,867,3074,3,Foodies,2023-07-08
+Alpha Innovations,Influencer,Men 25-34,60 days,0.06,7360.5,3.88,Nueva York,German,469,4607,3,Outdoor Adventurers,2023-07-25
+Alpha Innovations,Display,Men 18-24,60 days,0.02,15079.83,6.24,San Francisco,Mandarin,128,7751,1,Outdoor Adventurers,2023-07-15
+Innovate Industries,Display,Women 25-34,15 days,0.05,14262.74,4.73,Washington D.C.,English,422,9474,2,Tech Enthusiasts,2023-07-15
+Innovate Industries,Social Media,Men 18-24,15 days,0.14,19784.21,3.45,Boston,Spanish,192,13652,1,Tech Enthusiasts,2023-07-06
+Alpha Innovations,Display,Women 25-34,60 days,0.02,10611.06,7.04,Nueva Orleans,English,1540,2964,1,Outdoor Adventurers,2023-07-10
+NexGen Systems,Social Media,All Ages,45 days,0.07,16219.32,4.51,Nueva York,Mandarin,564,4208,7,Outdoor Adventurers,2023-07-13
+Alpha Innovations,Social Media,All Ages,60 days,0.1,18186.22,3.58,Chicago,Spanish,1941,11446,6,Health & Wellness,2023-07-15
+DataTech Solutions,Search,Men 18-24,60 days,0.08,17659.54,2.4,Nueva Orleans,Spanish,1041,17282,1,Outdoor Adventurers,2023-07-29
+TechCorp,Display,Men 25-34,15 days,0.05,9458.82,4.2,Los Ángeles,Mandarin,460,12990,1,Outdoor Adventurers,2023-07-06
+DataTech Solutions,Email,Women 25-34,60 days,0.02,15435.61,5.31,Washington D.C.,Mandarin,1990,18622,9,Foodies,2023-07-02
+Innovate Industries,Search,Men 18-24,60 days,0.1,5543.19,3.72,Chicago,English,1438,19395,7,Tech Enthusiasts,2023-07-20
+DataTech Solutions,Display,Women 25-34,60 days,0.05,16478.12,4.06,Seattle,Mandarin,269,12559,9,Outdoor Adventurers,2023-07-17
+TechCorp,Social Media,Women 25-34,45 days,0.15,13231.7,7.24,Chicago,Mandarin,1312,15267,5,Foodies,2023-07-20
+NexGen Systems,Social Media,All Ages,60 days,0.12,5283.71,4.2,Las Vegas,Spanish,1694,9738,4,Health & Wellness,2023-07-24
+NexGen Systems,Influencer,Men 25-34,15 days,0.02,11347.31,6.34,San Francisco,Mandarin,194,13630,9,Foodies,2023-07-22
+DataTech Solutions,Social Media,All Ages,15 days,0.11,5798.27,4.48,Washington D.C.,Mandarin,594,16082,5,Tech Enthusiasts,2023-07-27
+Innovate Industries,Email,Women 25-34,15 days,0.13,5375.67,5.4,Boston,English,569,10977,5,Health & Wellness,2023-07-25
+Alpha Innovations,Display,Men 18-24,30 days,0.02,19845.16,5.6,Seattle,English,232,3354,9,Outdoor Adventurers,2023-07-04
+Alpha Innovations,Display,Men 25-34,60 days,0.12,19316.9,6.89,Chicago,Spanish,193,10770,5,Fashionistas,2023-07-14
+NexGen Systems,Search,Women 25-34,30 days,0.14,16117.26,2.39,Washington D.C.,Mandarin,103,14742,1,Outdoor Adventurers,2023-07-25
+Innovate Industries,Display,Women 35-44,60 days,0.08,12487.86,5.85,Nueva Orleans,Spanish,823,19533,7,Fashionistas,2023-07-10
+Alpha Innovations,Influencer,All Ages,45 days,0.14,5610.73,3.3,Las Vegas,Mandarin,1595,3572,7,Tech Enthusiasts,2023-07-26
+NexGen Systems,Influencer,Men 25-34,30 days,0.13,15182.52,3.45,Nueva York,English,1817,2898,6,Tech Enthusiasts,2023-07-16
+Innovate Industries,Display,Women 35-44,60 days,0.12,6450.15,6.53,Washington D.C.,English,570,10796,1,Outdoor Adventurers,2023-07-18
+NexGen Systems,Social Media,All Ages,30 days,0.13,9277.73,6.33,Boston,Mandarin,1136,7679,3,Foodies,2023-07-12
+Innovate Industries,Display,Women 35-44,45 days,0.15,5937.26,7.95,Seattle,Spanish,1104,13420,2,Foodies,2023-07-25
+Alpha Innovations,Email,Women 25-34,30 days,0.13,10882.06,3.94,San Francisco,Mandarin,1096,9626,1,Health & Wellness,2023-07-15
+NexGen Systems,Social Media,Men 18-24,15 days,0.08,8540.96,3.04,Las Vegas,Spanish,1194,15623,6,Fashionistas,2023-07-09
+NexGen Systems,Search,All Ages,30 days,0.13,10900.62,3.88,Los Ángeles,English,1189,13380,2,Fashionistas,2023-07-04
+TechCorp,Display,All Ages,30 days,0.07,10328.78,5.92,Miami,Mandarin,1288,7695,7,Outdoor Adventurers,2023-07-11
+NexGen Systems,Email,Women 35-44,15 days,0.09,19461.68,5.59,Miami,Mandarin,1686,19856,6,Foodies,2023-07-13
+Alpha Innovations,Social Media,Women 25-34,15 days,0.14,15976.63,6.66,Los Ángeles,English,1903,18671,8,Outdoor Adventurers,2023-07-22
+TechCorp,Search,Men 18-24,45 days,0.11,7323.92,4.98,Las Vegas,French,403,10746,6,Outdoor Adventurers,2023-07-07
+Alpha Innovations,Influencer,Women 35-44,45 days,0.09,19656.04,6.13,Boston,English,1505,4139,9,Health & Wellness,2023-07-08
+TechCorp,Influencer,All Ages,60 days,0.13,8159.8,5.89,Chicago,German,636,15565,4,Outdoor Adventurers,2023-07-27
+DataTech Solutions,Search,Men 18-24,45 days,0.14,17687.4,3.98,Nueva York,French,129,19923,5,Fashionistas,2023-07-16
+NexGen Systems,Email,Women 25-34,30 days,0.03,5122.06,6.7,Washington D.C.,English,1397,6484,2,Fashionistas,2023-07-20
+NexGen Systems,Influencer,All Ages,30 days,0.14,12881.89,6.73,Miami,Spanish,1126,4150,4,Health & Wellness,2023-07-16
+NexGen Systems,Search,Women 25-34,15 days,0.07,18731.11,3.33,Nueva York,English,273,5400,6,Tech Enthusiasts,2023-07-28
+Alpha Innovations,Influencer,All Ages,30 days,0.1,7388.06,3.15,Seattle,Mandarin,1364,1891,3,Fashionistas,2023-07-24
+Innovate Industries,Search,Women 35-44,15 days,0.05,18698.52,2.19,Miami,French,422,1017,7,Fashionistas,2023-07-21
+NexGen Systems,Email,Women 35-44,45 days,0.14,16619.56,4.43,Nueva York,Spanish,973,18393,9,Fashionistas,2023-07-20
+Innovate Industries,Display,Men 18-24,45 days,0.07,8195.58,5.98,Los Ángeles,German,574,19535,7,Fashionistas,2023-07-03
+Alpha Innovations,Social Media,Men 25-34,30 days,0.04,10843.29,3.49,Los Ángeles,Mandarin,650,15944,3,Tech Enthusiasts,2023-07-25
+NexGen Systems,Influencer,Women 25-34,60 days,0.04,9510.97,5.08,Miami,English,1164,8568,7,Foodies,2023-07-20
+TechCorp,Search,Women 25-34,60 days,0.02,9453.01,4.18,Chicago,Mandarin,892,2091,1,Outdoor Adventurers,2023-07-30
+NexGen Systems,Search,Men 18-24,45 days,0.13,19375.96,5.78,Las Vegas,Mandarin,1714,2891,5,Tech Enthusiasts,2023-07-01
+Alpha Innovations,Social Media,Men 18-24,60 days,0.12,14313.48,2.34,Miami,German,1841,18760,2,Tech Enthusiasts,2023-07-04
+NexGen Systems,Search,Men 25-34,15 days,0.13,18245.47,2.37,Chicago,Spanish,1270,4593,5,Health & Wellness,2023-07-26
+Alpha Innovations,Display,Women 25-34,45 days,0.12,13086.09,7.31,San Francisco,Spanish,317,13826,8,Foodies,2023-07-09
+DataTech Solutions,Email,Men 18-24,45 days,0.11,7193.04,7.15,Chicago,Mandarin,1430,18863,1,Tech Enthusiasts,2023-07-26
+Innovate Industries,Influencer,All Ages,15 days,0.03,10192.86,7.24,Nueva York,German,1319,14488,9,Health & Wellness,2023-07-24
+Innovate Industries,Influencer,Women 25-34,45 days,0.05,17089.0,7.41,Washington D.C.,French,1743,9797,6,Fashionistas,2023-07-14
+NexGen Systems,Influencer,Women 25-34,60 days,0.07,9676.68,2.94,Los Ángeles,Mandarin,680,13152,7,Outdoor Adventurers,2023-07-20
+Alpha Innovations,Email,Women 35-44,30 days,0.12,14351.18,2.29,Las Vegas,English,387,1066,5,Health & Wellness,2023-07-18
+Innovate Industries,Influencer,Men 25-34,30 days,0.03,13046.28,3.94,Nueva Orleans,Spanish,181,3225,3,Outdoor Adventurers,2023-07-17
+TechCorp,Influencer,All Ages,45 days,0.09,10106.75,6.97,San Francisco,German,1566,12955,5,Outdoor Adventurers,2023-07-29
+TechCorp,Social Media,Men 25-34,15 days,0.12,5246.95,5.08,San Francisco,Spanish,884,11367,5,Tech Enthusiasts,2023-07-06
+Innovate Industries,Influencer,Men 18-24,30 days,0.12,18008.13,3.44,Miami,German,1973,17770,6,Tech Enthusiasts,2023-07-30
+NexGen Systems,Email,All Ages,15 days,0.05,5385.47,6.34,Los Ángeles,German,1857,4422,5,Foodies,2023-07-21
+NexGen Systems,Email,Men 18-24,45 days,0.06,16429.62,7.2,Nueva Orleans,Spanish,449,8209,8,Foodies,2023-07-10
+TechCorp,Influencer,Men 25-34,30 days,0.14,18092.7,2.17,Nueva York,Mandarin,1755,3320,3,Fashionistas,2023-07-01
+Innovate Industries,Email,Women 25-34,45 days,0.13,9702.98,4.87,Miami,Spanish,963,1023,3,Outdoor Adventurers,2023-07-05
+NexGen Systems,Social Media,All Ages,60 days,0.04,12329.29,7.78,Seattle,Mandarin,469,11745,9,Fashionistas,2023-07-06
+DataTech Solutions,Search,Women 35-44,45 days,0.06,9737.58,5.91,Nueva Orleans,Mandarin,502,16218,2,Fashionistas,2023-07-25
+Alpha Innovations,Search,All Ages,15 days,0.09,18100.44,6.48,Los Ángeles,German,929,5497,1,Fashionistas,2023-07-11
+Alpha Innovations,Display,Women 35-44,60 days,0.04,15335.21,3.42,San Francisco,French,1302,19066,4,Tech Enthusiasts,2023-07-30
+Innovate Industries,Display,Men 25-34,30 days,0.06,11747.53,4.43,Nueva Orleans,Mandarin,1778,8947,9,Foodies,2023-07-29
+Alpha Innovations,Influencer,All Ages,60 days,0.11,11227.64,2.82,Chicago,German,590,4263,5,Health & Wellness,2023-07-15
+TechCorp,Search,All Ages,45 days,0.1,8711.12,3.31,Seattle,Mandarin,1508,5204,6,Outdoor Adventurers,2023-07-27
+Alpha Innovations,Display,Men 18-24,15 days,0.05,15689.56,6.58,Nueva Orleans,Mandarin,180,14952,1,Tech Enthusiasts,2023-07-16
+TechCorp,Search,All Ages,45 days,0.08,7210.67,4.2,Nueva Orleans,French,1404,8617,4,Foodies,2023-07-14
+DataTech Solutions,Email,Women 35-44,45 days,0.02,18885.46,2.36,Washington D.C.,Spanish,1043,16628,5,Tech Enthusiasts,2023-07-18
+NexGen Systems,Social Media,Women 35-44,60 days,0.13,18271.82,7.05,Chicago,German,283,3596,4,Fashionistas,2023-07-17
+DataTech Solutions,Display,All Ages,30 days,0.05,12865.51,4.33,Nueva Orleans,English,1129,5809,4,Fashionistas,2023-07-08
+TechCorp,Influencer,Men 18-24,15 days,0.12,5715.71,3.48,Chicago,French,785,10163,10,Tech Enthusiasts,2023-07-26
+NexGen Systems,Email,All Ages,45 days,0.08,6353.58,5.77,Las Vegas,Mandarin,1326,7713,6,Tech Enthusiasts,2023-07-09
+Innovate Industries,Email,All Ages,60 days,0.07,11070.66,3.02,Boston,English,1346,15051,10,Outdoor Adventurers,2023-07-27
+TechCorp,Search,Women 35-44,30 days,0.04,8433.85,7.65,Las Vegas,Mandarin,1469,17569,3,Tech Enthusiasts,2023-07-01
+TechCorp,Influencer,Women 25-34,15 days,0.04,13004.05,5.72,Nueva Orleans,German,1597,10627,10,Outdoor Adventurers,2023-07-23
+NexGen Systems,Email,Men 25-34,30 days,0.09,7284.84,3.12,San Francisco,French,315,13186,8,Outdoor Adventurers,2023-07-11
+DataTech Solutions,Social Media,Women 35-44,30 days,0.03,13024.31,6.82,Miami,English,1443,3216,9,Foodies,2023-07-23
+TechCorp,Social Media,Women 25-34,60 days,0.11,14464.35,7.86,Miami,French,1172,6623,8,Foodies,2023-07-03
+NexGen Systems,Social Media,Men 18-24,60 days,0.02,11749.61,5.06,Chicago,French,1201,13788,4,Health & Wellness,2023-07-19
+Alpha Innovations,Email,Men 18-24,30 days,0.08,17250.51,7.36,Miami,German,440,9102,4,Foodies,2023-07-18
+NexGen Systems,Email,All Ages,30 days,0.03,16680.37,4.56,Nueva York,Spanish,1262,6544,10,Foodies,2023-07-20
+NexGen Systems,Search,Women 25-34,60 days,0.03,11465.69,4.5,Washington D.C.,French,1075,14139,5,Tech Enthusiasts,2023-07-16
+TechCorp,Social Media,Men 25-34,60 days,0.08,11059.34,4.86,Nueva Orleans,English,1796,2887,8,Fashionistas,2023-07-01
+DataTech Solutions,Display,Men 18-24,30 days,0.11,12100.13,3.84,Seattle,French,1627,12449,10,Health & Wellness,2023-07-15
+NexGen Systems,Display,Women 25-34,60 days,0.06,9575.62,6.06,Chicago,Mandarin,345,14730,8,Health & Wellness,2023-07-03
+TechCorp,Email,Men 25-34,30 days,0.1,7123.24,4.12,Washington D.C.,English,1376,8928,3,Foodies,2023-07-26
+Innovate Industries,Search,Women 35-44,45 days,0.03,14879.08,7.95,Boston,Spanish,947,2327,9,Outdoor Adventurers,2023-07-03
+DataTech Solutions,Email,Women 35-44,45 days,0.05,19567.15,5.21,Boston,Spanish,664,4726,6,Health & Wellness,2023-07-13
+TechCorp,Influencer,Men 18-24,15 days,0.04,13308.58,6.67,Nueva Orleans,English,234,14441,6,Health & Wellness,2023-07-08
+Innovate Industries,Social Media,All Ages,45 days,0.05,11408.21,7.05,Los Ángeles,Mandarin,656,11242,7,Outdoor Adventurers,2023-07-12
+DataTech Solutions,Influencer,Women 35-44,45 days,0.1,13551.51,7.37,Las Vegas,Mandarin,802,8789,6,Tech Enthusiasts,2023-07-10
+NexGen Systems,Search,Women 25-34,30 days,0.01,16555.57,3.01,Miami,German,1088,5558,6,Health & Wellness,2023-07-05
+Innovate Industries,Influencer,All Ages,30 days,0.03,14863.3,5.34,Nueva Orleans,German,1766,16426,6,Tech Enthusiasts,2023-07-06
+Alpha Innovations,Influencer,Women 35-44,15 days,0.01,6700.08,7.26,Miami,Spanish,939,18892,7,Outdoor Adventurers,2023-07-25
+Alpha Innovations,Search,Men 18-24,15 days,0.12,11612.48,5.69,Seattle,German,618,14170,5,Outdoor Adventurers,2023-07-20
+Alpha Innovations,Influencer,Men 18-24,60 days,0.1,10401.29,4.36,San Francisco,English,1191,4644,5,Tech Enthusiasts,2023-07-18
+Alpha Innovations,Email,Men 25-34,15 days,0.05,7178.52,6.6,Nueva Orleans,German,1057,5151,9,Outdoor Adventurers,2023-07-21
+TechCorp,Email,Men 25-34,15 days,0.14,9981.49,5.8,Seattle,Mandarin,827,8491,2,Tech Enthusiasts,2023-07-19
+NexGen Systems,Email,All Ages,30 days,0.06,7945.64,7.03,Nueva Orleans,Mandarin,1454,19570,8,Outdoor Adventurers,2023-07-01
+TechCorp,Display,Men 18-24,45 days,0.08,19609.91,4.13,Washington D.C.,Mandarin,605,17337,4,Foodies,2023-07-04
+Alpha Innovations,Search,Women 35-44,45 days,0.12,8624.03,3.92,Boston,Mandarin,1727,4277,6,Outdoor Adventurers,2023-07-08
+Alpha Innovations,Display,Men 18-24,15 days,0.08,19118.75,6.68,Las Vegas,German,1787,6664,8,Outdoor Adventurers,2023-07-02
+DataTech Solutions,Email,Men 18-24,30 days,0.05,11064.84,5.25,Chicago,Spanish,1231,7196,2,Outdoor Adventurers,2023-07-05
+TechCorp,Search,Men 25-34,15 days,0.12,13691.23,5.47,Seattle,Mandarin,670,19860,6,Outdoor Adventurers,2023-07-05
+Innovate Industries,Search,Men 25-34,30 days,0.05,11550.64,5.49,Miami,Spanish,587,4574,3,Health & Wellness,2023-07-08
+Alpha Innovations,Email,Men 25-34,15 days,0.04,18522.74,6.01,Nueva York,Mandarin,636,15045,4,Fashionistas,2023-07-19
+Alpha Innovations,Influencer,All Ages,15 days,0.11,14994.86,4.05,San Francisco,French,334,7557,2,Outdoor Adventurers,2023-07-02
+TechCorp,Email,Women 25-34,60 days,0.12,15915.08,5.22,Los Ángeles,Mandarin,1905,2432,6,Foodies,2023-07-06
+DataTech Solutions,Social Media,Women 25-34,60 days,0.12,10342.99,3.95,Nueva York,Spanish,298,8448,1,Tech Enthusiasts,2023-07-09
+Alpha Innovations,Social Media,Men 18-24,45 days,0.03,16716.74,6.2,Miami,Mandarin,1586,9142,5,Health & Wellness,2023-07-01
+Alpha Innovations,Influencer,All Ages,60 days,0.13,6429.23,5.44,Las Vegas,Spanish,1599,4886,8,Outdoor Adventurers,2023-07-26
+Innovate Industries,Influencer,Men 25-34,30 days,0.09,15986.42,6.47,Washington D.C.,French,1707,1346,4,Fashionistas,2023-07-16
+Innovate Industries,Search,Men 25-34,15 days,0.04,10046.07,2.5,Nueva Orleans,German,164,4508,4,Outdoor Adventurers,2023-07-28
+Alpha Innovations,Display,Women 25-34,30 days,0.02,8316.93,6.98,Nueva York,French,1857,13685,9,Health & Wellness,2023-07-28
+NexGen Systems,Social Media,All Ages,30 days,0.04,18881.26,3.92,Las Vegas,English,1635,7280,9,Foodies,2023-07-22
+Alpha Innovations,Influencer,Men 25-34,30 days,0.15,12545.46,6.26,Chicago,German,417,18293,9,Health & Wellness,2023-07-27
+DataTech Solutions,Email,Women 25-34,15 days,0.05,6086.63,2.5,Los Ángeles,Mandarin,1489,16665,4,Outdoor Adventurers,2023-07-07
+Innovate Industries,Social Media,Men 18-24,15 days,0.09,11267.84,5.24,Nueva York,English,236,10780,5,Tech Enthusiasts,2023-07-27
+Innovate Industries,Email,All Ages,15 days,0.09,16883.26,3.84,Miami,German,230,17592,5,Foodies,2023-07-02
+TechCorp,Display,All Ages,60 days,0.06,16937.39,4.62,Nueva York,Spanish,434,6568,8,Foodies,2023-07-16
+DataTech Solutions,Influencer,Men 25-34,60 days,0.02,15694.38,7.67,Seattle,French,104,19195,4,Fashionistas,2023-07-14
+Alpha Innovations,Display,Men 25-34,60 days,0.13,6562.92,4.78,Miami,French,1060,8766,2,Foodies,2023-07-04
+Alpha Innovations,Email,Women 35-44,15 days,0.04,16160.58,4.58,Las Vegas,German,991,14653,3,Tech Enthusiasts,2023-07-07
+DataTech Solutions,Influencer,Men 18-24,60 days,0.07,10076.81,5.02,Nueva Orleans,Spanish,205,14695,1,Fashionistas,2023-07-29
+NexGen Systems,Social Media,Women 25-34,60 days,0.1,17444.95,2.92,Miami,Mandarin,529,9129,1,Health & Wellness,2023-07-14
+Alpha Innovations,Influencer,Men 18-24,15 days,0.03,17011.11,7.34,Chicago,English,646,14985,6,Health & Wellness,2023-07-25
+Innovate Industries,Influencer,Men 25-34,60 days,0.13,18980.11,7.54,Chicago,Mandarin,1893,5960,10,Health & Wellness,2023-07-21
+Alpha Innovations,Influencer,Women 35-44,15 days,0.01,5568.89,5.48,Washington D.C.,English,1458,12905,4,Foodies,2023-07-05
+DataTech Solutions,Display,Women 35-44,30 days,0.11,19987.51,2.54,Chicago,Spanish,1102,19254,4,Fashionistas,2023-07-27
+Alpha Innovations,Search,All Ages,30 days,0.05,6897.29,2.83,Nueva York,English,701,10907,4,Outdoor Adventurers,2023-07-26
+TechCorp,Social Media,Men 18-24,45 days,0.08,6158.53,2.92,Nueva Orleans,German,940,7661,6,Health & Wellness,2023-07-20
+Alpha Innovations,Email,Men 25-34,30 days,0.1,11361.76,3.68,Chicago,Spanish,1894,8279,7,Fashionistas,2023-07-08
+Alpha Innovations,Social Media,Men 18-24,45 days,0.03,6310.91,4.87,Washington D.C.,English,710,6165,2,Outdoor Adventurers,2023-07-03
+DataTech Solutions,Social Media,Women 35-44,15 days,0.06,7146.48,6.24,Los Ángeles,Mandarin,1474,18290,9,Outdoor Adventurers,2023-07-03
+DataTech Solutions,Search,Women 25-34,45 days,0.02,18150.7,4.89,Los Ángeles,English,1918,13399,6,Foodies,2023-07-26
+Alpha Innovations,Display,Women 35-44,15 days,0.15,8960.31,3.6,Chicago,French,167,4591,4,Tech Enthusiasts,2023-07-07
+DataTech Solutions,Social Media,Women 25-34,15 days,0.05,7235.78,7.79,Las Vegas,German,1337,18361,7,Outdoor Adventurers,2023-07-17
+Innovate Industries,Display,All Ages,15 days,0.12,16629.05,4.43,Los Ángeles,German,887,16397,10,Foodies,2023-07-08
+NexGen Systems,Email,All Ages,45 days,0.09,10413.99,7.8,Nueva Orleans,French,1564,10855,4,Fashionistas,2023-07-15
+Alpha Innovations,Social Media,Women 25-34,60 days,0.09,15383.32,5.76,Boston,English,709,9720,10,Outdoor Adventurers,2023-07-24
+DataTech Solutions,Search,Men 25-34,30 days,0.15,5710.12,7.8,Nueva York,French,1944,14108,5,Foodies,2023-07-17
+DataTech Solutions,Search,Men 18-24,30 days,0.08,19479.34,6.41,Chicago,Spanish,426,7985,7,Health & Wellness,2023-07-01
+Innovate Industries,Email,All Ages,60 days,0.11,17539.27,6.46,Nueva York,English,1253,16107,5,Health & Wellness,2023-07-30
+Innovate Industries,Email,Women 35-44,15 days,0.07,16781.66,6.06,Las Vegas,Spanish,174,18415,2,Foodies,2023-07-29
+TechCorp,Display,Men 18-24,60 days,0.09,19207.99,7.57,Seattle,French,769,10917,1,Fashionistas,2023-07-02
+NexGen Systems,Display,Men 18-24,45 days,0.02,14720.39,7.09,Seattle,English,1077,6984,7,Outdoor Adventurers,2023-07-02
+TechCorp,Display,Men 25-34,15 days,0.03,8773.62,4.88,Las Vegas,German,757,3146,8,Health & Wellness,2023-07-09
+TechCorp,Email,Women 35-44,15 days,0.04,13615.63,7.21,Boston,French,852,7933,1,Fashionistas,2023-07-29
+Innovate Industries,Social Media,Women 25-34,15 days,0.09,19028.34,6.8,Miami,Spanish,476,6667,10,Foodies,2023-07-08
+NexGen Systems,Display,Men 18-24,45 days,0.05,18662.79,3.55,Boston,Mandarin,159,7669,1,Tech Enthusiasts,2023-07-18
+Alpha Innovations,Display,Women 35-44,60 days,0.03,11541.43,6.38,Chicago,Spanish,1638,9086,5,Tech Enthusiasts,2023-07-23
+Innovate Industries,Search,All Ages,30 days,0.01,6363.59,4.69,Washington D.C.,German,578,6087,6,Foodies,2023-07-09
+Innovate Industries,Social Media,Men 25-34,60 days,0.09,14984.8,2.12,Nueva Orleans,German,1678,11395,3,Health & Wellness,2023-07-28
+Alpha Innovations,Influencer,All Ages,15 days,0.08,12939.67,4.01,Seattle,Mandarin,944,18900,3,Outdoor Adventurers,2023-07-18
+Innovate Industries,Social Media,Women 25-34,60 days,0.02,16125.81,2.32,Boston,Spanish,1496,18654,9,Fashionistas,2023-07-05
+Alpha Innovations,Social Media,Men 18-24,15 days,0.09,13268.53,7.19,San Francisco,French,1578,3640,7,Health & Wellness,2023-07-02
+Alpha Innovations,Display,Men 18-24,45 days,0.13,6662.49,3.31,Miami,German,1776,5902,5,Tech Enthusiasts,2023-07-23
+TechCorp,Search,Men 18-24,45 days,0.1,15870.5,2.8,Seattle,German,1113,2230,4,Fashionistas,2023-07-05
+NexGen Systems,Email,Men 18-24,15 days,0.07,13400.39,2.68,San Francisco,Mandarin,286,3499,7,Foodies,2023-07-26
+Alpha Innovations,Email,Women 35-44,60 days,0.05,7758.93,6.65,San Francisco,Spanish,1066,1196,3,Health & Wellness,2023-07-25
+TechCorp,Display,Women 35-44,15 days,0.03,7106.23,5.12,Boston,French,167,8124,1,Health & Wellness,2023-07-04
+Alpha Innovations,Social Media,Men 25-34,45 days,0.06,18440.77,6.33,Seattle,German,1486,6268,8,Foodies,2023-07-11
+TechCorp,Email,Men 25-34,60 days,0.07,19487.06,2.43,Nueva Orleans,Mandarin,309,3175,8,Health & Wellness,2023-07-17
+TechCorp,Display,Men 18-24,45 days,0.09,18360.83,4.96,Las Vegas,English,624,5163,7,Outdoor Adventurers,2023-07-12
+Alpha Innovations,Search,All Ages,60 days,0.09,12017.51,6.87,Los Ángeles,Spanish,1314,12987,1,Fashionistas,2023-07-09
+Alpha Innovations,Influencer,Men 18-24,15 days,0.04,10148.06,6.21,Nueva Orleans,German,1484,19648,9,Tech Enthusiasts,2023-07-25
+NexGen Systems,Influencer,All Ages,15 days,0.07,15180.47,5.59,San Francisco,Mandarin,1532,1038,6,Fashionistas,2023-07-28
+Innovate Industries,Influencer,All Ages,45 days,0.1,14943.14,2.63,Miami,German,1303,14265,1,Foodies,2023-07-05
+NexGen Systems,Search,Women 35-44,45 days,0.07,10501.31,6.4,Nueva Orleans,German,1710,16049,7,Foodies,2023-07-29
+DataTech Solutions,Email,All Ages,15 days,0.07,19142.3,7.33,Chicago,English,420,14085,2,Outdoor Adventurers,2023-07-19
+Innovate Industries,Social Media,All Ages,30 days,0.07,12654.33,2.39,Chicago,French,1287,15501,9,Fashionistas,2023-07-16
+TechCorp,Display,Women 25-34,45 days,0.09,11863.41,4.69,Las Vegas,Mandarin,238,12408,8,Foodies,2023-07-19
+Alpha Innovations,Search,Men 25-34,60 days,0.07,15212.91,6.97,Los Ángeles,Mandarin,1411,9882,10,Outdoor Adventurers,2023-07-26
+Innovate Industries,Display,Women 25-34,60 days,0.14,19528.51,7.29,Nueva York,French,1719,9944,5,Health & Wellness,2023-07-02
+Alpha Innovations,Social Media,Women 25-34,60 days,0.03,19594.12,4.71,Las Vegas,English,372,1928,6,Tech Enthusiasts,2023-07-18
+Alpha Innovations,Search,Men 18-24,60 days,0.03,15110.63,7.14,Las Vegas,English,616,7786,7,Tech Enthusiasts,2023-07-21
+DataTech Solutions,Influencer,Women 35-44,45 days,0.12,17260.37,5.92,Seattle,German,187,7530,10,Tech Enthusiasts,2023-07-12
+TechCorp,Social Media,Men 18-24,45 days,0.03,16282.86,2.3,Washington D.C.,English,125,13552,5,Tech Enthusiasts,2023-07-06
+NexGen Systems,Display,All Ages,30 days,0.14,9534.88,4.84,San Francisco,English,1447,12132,8,Foodies,2023-07-09
+DataTech Solutions,Display,Women 35-44,15 days,0.02,8710.77,3.83,Washington D.C.,Spanish,1971,12277,10,Foodies,2023-07-01
+DataTech Solutions,Social Media,Women 25-34,30 days,0.02,11173.44,4.81,Miami,French,1332,14029,6,Health & Wellness,2023-07-29
+Innovate Industries,Email,Women 25-34,15 days,0.15,18559.25,5.17,Nueva Orleans,Mandarin,1061,4895,9,Health & Wellness,2023-07-01
+NexGen Systems,Influencer,All Ages,45 days,0.14,5540.84,5.18,Chicago,English,1955,19447,9,Health & Wellness,2023-07-27
+DataTech Solutions,Search,Men 18-24,45 days,0.03,15661.45,5.76,Seattle,English,1625,15192,2,Fashionistas,2023-07-29
+DataTech Solutions,Influencer,Men 25-34,15 days,0.08,16300.99,3.02,Chicago,German,377,5569,4,Foodies,2023-07-28
+Innovate Industries,Social Media,Men 25-34,45 days,0.1,19865.06,6.31,San Francisco,Spanish,1017,11475,9,Foodies,2023-07-15
+DataTech Solutions,Search,Men 18-24,15 days,0.09,14449.43,4.16,Chicago,English,887,14171,9,Tech Enthusiasts,2023-07-12
+NexGen Systems,Influencer,All Ages,60 days,0.06,14372.17,6.13,Las Vegas,Spanish,922,11604,5,Foodies,2023-07-29
+Innovate Industries,Influencer,Men 25-34,15 days,0.11,19029.45,2.41,Boston,French,1052,19497,3,Tech Enthusiasts,2023-07-08
+DataTech Solutions,Social Media,All Ages,15 days,0.11,15993.82,5.23,Chicago,French,1536,9073,2,Foodies,2023-07-02
+NexGen Systems,Display,Men 25-34,45 days,0.06,16203.64,3.81,Boston,French,916,3441,1,Outdoor Adventurers,2023-07-17
+DataTech Solutions,Social Media,Women 35-44,45 days,0.11,18007.95,3.41,Miami,German,554,16127,3,Health & Wellness,2023-07-20
+Innovate Industries,Search,Men 25-34,60 days,0.08,16054.0,6.77,Seattle,German,864,7639,9,Fashionistas,2023-07-28
+DataTech Solutions,Social Media,Men 25-34,30 days,0.08,7439.99,7.74,Los Ángeles,Mandarin,664,8180,7,Health & Wellness,2023-07-07
+TechCorp,Display,Women 35-44,60 days,0.12,12480.46,3.9,San Francisco,English,1994,17698,6,Tech Enthusiasts,2023-07-21
+Alpha Innovations,Display,Women 35-44,15 days,0.02,13834.51,7.37,Nueva York,English,383,10046,1,Fashionistas,2023-07-01
+DataTech Solutions,Social Media,Women 35-44,45 days,0.1,13002.32,3.88,Washington D.C.,German,400,15170,6,Foodies,2023-07-19
+Innovate Industries,Social Media,Women 25-34,60 days,0.07,19422.21,3.7,Boston,English,1976,13185,6,Outdoor Adventurers,2023-07-12
+Innovate Industries,Social Media,All Ages,15 days,0.15,5875.62,5.69,Los Ángeles,French,529,6572,6,Fashionistas,2023-07-24
+TechCorp,Influencer,Women 25-34,60 days,0.02,9701.06,2.5,Nueva York,French,546,5754,8,Tech Enthusiasts,2023-07-04
+NexGen Systems,Email,Men 25-34,15 days,0.11,6339.7,3.51,Nueva York,English,170,11129,7,Fashionistas,2023-07-22
+DataTech Solutions,Email,All Ages,30 days,0.06,12965.69,2.71,Seattle,English,283,3790,2,Outdoor Adventurers,2023-07-03
+TechCorp,Search,Women 25-34,15 days,0.15,15180.84,5.45,Nueva Orleans,English,1893,11666,1,Tech Enthusiasts,2023-07-14
+Alpha Innovations,Social Media,Men 25-34,45 days,0.14,11196.09,3.28,Seattle,German,1122,3822,10,Tech Enthusiasts,2023-07-04
+TechCorp,Social Media,Men 25-34,45 days,0.11,11746.72,3.01,Las Vegas,Mandarin,1039,16549,10,Foodies,2023-07-10
+DataTech Solutions,Email,Men 18-24,60 days,0.13,8799.4,5.1,Las Vegas,Mandarin,1118,13833,5,Health & Wellness,2023-07-05
+Alpha Innovations,Search,All Ages,15 days,0.03,11289.57,7.33,Chicago,French,1767,7399,2,Health & Wellness,2023-07-18
+DataTech Solutions,Email,Men 18-24,60 days,0.11,18005.88,7.87,Las Vegas,Mandarin,418,6225,1,Foodies,2023-07-13
+Alpha Innovations,Social Media,All Ages,60 days,0.08,10540.49,4.94,Nueva York,French,335,1509,3,Tech Enthusiasts,2023-07-23
+NexGen Systems,Email,All Ages,60 days,0.09,19665.02,2.19,Washington D.C.,Mandarin,648,2740,3,Health & Wellness,2023-07-08
+TechCorp,Social Media,All Ages,60 days,0.06,19247.67,5.29,Washington D.C.,Mandarin,1928,14775,3,Health & Wellness,2023-07-18
+DataTech Solutions,Email,All Ages,45 days,0.08,10553.7,6.68,Nueva Orleans,Spanish,788,12107,5,Health & Wellness,2023-07-23
+Alpha Innovations,Email,All Ages,60 days,0.03,8301.34,3.16,Nueva Orleans,English,419,15554,5,Foodies,2023-07-10
+Alpha Innovations,Influencer,Men 25-34,60 days,0.11,6212.44,4.9,Nueva York,Spanish,541,1184,5,Tech Enthusiasts,2023-07-13
+TechCorp,Social Media,Women 35-44,15 days,0.13,5576.42,5.74,Washington D.C.,Spanish,1731,9947,3,Health & Wellness,2023-07-23
+Innovate Industries,Search,Men 18-24,60 days,0.14,10563.04,6.02,Seattle,German,645,13846,3,Foodies,2023-07-19
+Alpha Innovations,Email,All Ages,45 days,0.02,10151.93,6.45,Nueva Orleans,Spanish,1496,3626,2,Health & Wellness,2023-07-30
+DataTech Solutions,Search,All Ages,15 days,0.02,17936.95,2.92,Miami,Mandarin,100,6681,8,Tech Enthusiasts,2023-07-12
+Alpha Innovations,Influencer,Women 35-44,45 days,0.08,6940.1,4.68,Los Ángeles,French,1982,13202,3,Foodies,2023-07-10
+Innovate Industries,Display,Women 35-44,30 days,0.02,12164.11,6.97,San Francisco,German,372,6010,4,Outdoor Adventurers,2023-07-14
+NexGen Systems,Search,Men 25-34,45 days,0.07,16032.55,5.53,Boston,English,602,6159,8,Health & Wellness,2023-07-05
+DataTech Solutions,Search,Women 35-44,60 days,0.1,19598.96,7.92,Boston,English,173,12698,6,Foodies,2023-07-27
+NexGen Systems,Influencer,All Ages,30 days,0.01,18019.08,7.52,Nueva Orleans,German,721,2062,8,Outdoor Adventurers,2023-07-03
+TechCorp,Display,Women 35-44,45 days,0.05,17790.19,7.23,Miami,French,301,18807,2,Health & Wellness,2023-07-07
+NexGen Systems,Influencer,Women 25-34,45 days,0.03,11676.73,6.78,Nueva Orleans,Spanish,288,14336,7,Outdoor Adventurers,2023-07-24
+NexGen Systems,Email,Men 18-24,15 days,0.11,6541.18,4.5,Nueva York,Mandarin,1577,16661,8,Fashionistas,2023-07-19
+NexGen Systems,Social Media,All Ages,15 days,0.13,9313.32,2.45,Seattle,Mandarin,186,16339,7,Health & Wellness,2023-07-16
+NexGen Systems,Email,Women 35-44,30 days,0.06,15409.17,3.54,Nueva Orleans,Spanish,622,3748,7,Fashionistas,2023-07-17
+Innovate Industries,Influencer,All Ages,15 days,0.05,17704.81,7.21,Seattle,English,1843,10218,1,Outdoor Adventurers,2023-07-23
+TechCorp,Search,Men 25-34,60 days,0.07,8004.15,3.93,Las Vegas,Spanish,1181,7338,4,Fashionistas,2023-07-19
+NexGen Systems,Email,Women 25-34,45 days,0.15,5022.27,4.5,Miami,German,1157,6875,1,Foodies,2023-07-12
+Innovate Industries,Social Media,All Ages,60 days,0.01,7968.23,4.54,Miami,English,503,11151,1,Foodies,2023-07-27
+Alpha Innovations,Search,All Ages,60 days,0.09,13569.63,4.06,Boston,English,1875,18984,9,Fashionistas,2023-07-13
+Innovate Industries,Email,All Ages,45 days,0.1,19617.43,7.98,Nueva Orleans,German,1259,19025,8,Foodies,2023-07-02
+TechCorp,Email,Women 25-34,30 days,0.05,7058.96,4.51,Las Vegas,French,252,1668,8,Tech Enthusiasts,2023-07-11
+DataTech Solutions,Influencer,Women 25-34,30 days,0.11,8654.12,2.42,Las Vegas,Spanish,245,15622,8,Health & Wellness,2023-07-07
+NexGen Systems,Search,Women 35-44,60 days,0.05,15681.49,6.33,Miami,French,1219,11434,6,Outdoor Adventurers,2023-07-06
+Alpha Innovations,Search,All Ages,60 days,0.08,18918.52,3.13,San Francisco,Mandarin,1535,14028,6,Fashionistas,2023-07-18
+DataTech Solutions,Display,Men 18-24,60 days,0.05,15511.95,4.4,San Francisco,Mandarin,1669,14940,5,Tech Enthusiasts,2023-07-05
+DataTech Solutions,Display,Men 25-34,15 days,0.12,7395.94,2.97,Washington D.C.,Spanish,1741,11100,8,Health & Wellness,2023-07-02
+NexGen Systems,Search,Women 25-34,30 days,0.01,18062.09,7.01,Nueva Orleans,Mandarin,441,8175,8,Health & Wellness,2023-07-22
+TechCorp,Display,Women 35-44,15 days,0.04,18259.72,3.8,Nueva York,French,1353,1411,2,Health & Wellness,2023-07-14
+TechCorp,Influencer,All Ages,30 days,0.13,16488.48,4.88,Los Ángeles,French,1132,5130,1,Fashionistas,2023-07-28
+TechCorp,Email,Men 25-34,30 days,0.05,15324.29,6.24,Nueva York,Mandarin,1915,16447,9,Tech Enthusiasts,2023-07-21
+Innovate Industries,Display,Women 25-34,15 days,0.09,18058.29,5.33,Nueva York,Spanish,1312,14777,5,Foodies,2023-07-03
+NexGen Systems,Display,Women 25-34,45 days,0.04,12321.91,5.76,Miami,English,582,5078,8,Fashionistas,2023-07-02
+Alpha Innovations,Search,Men 18-24,60 days,0.04,8739.86,5.7,Nueva Orleans,English,1104,10004,1,Foodies,2023-07-13
+Innovate Industries,Search,Men 25-34,60 days,0.09,17619.0,7.83,Chicago,Mandarin,1184,3956,10,Foodies,2023-07-25
+Alpha Innovations,Search,Men 18-24,60 days,0.07,6706.28,3.71,Miami,German,1848,14450,4,Health & Wellness,2023-07-01
+NexGen Systems,Search,Women 25-34,45 days,0.02,12881.47,4.72,San Francisco,Mandarin,721,1681,2,Health & Wellness,2023-07-28
+NexGen Systems,Social Media,Women 35-44,60 days,0.13,18859.01,6.82,Nueva York,French,580,18574,1,Tech Enthusiasts,2023-07-27
+DataTech Solutions,Display,Women 35-44,45 days,0.12,14037.99,4.41,Miami,German,1885,12736,3,Health & Wellness,2023-07-10
+Alpha Innovations,Display,Men 18-24,45 days,0.14,16779.23,4.57,Nueva Orleans,French,905,14970,9,Fashionistas,2023-07-05
+TechCorp,Influencer,Women 25-34,30 days,0.02,9714.67,3.63,Nueva Orleans,Spanish,285,3331,1,Tech Enthusiasts,2023-07-26
+DataTech Solutions,Influencer,Men 18-24,30 days,0.02,14343.99,2.33,Las Vegas,French,1705,1036,5,Outdoor Adventurers,2023-07-21
+TechCorp,Display,All Ages,15 days,0.03,9520.01,2.19,San Francisco,French,935,12631,6,Fashionistas,2023-07-13
+TechCorp,Influencer,Men 25-34,60 days,0.14,18345.31,5.13,Chicago,Mandarin,912,16145,10,Outdoor Adventurers,2023-07-22
+DataTech Solutions,Display,Women 25-34,60 days,0.1,18559.32,2.12,Nueva Orleans,French,125,13218,6,Fashionistas,2023-07-16
+Innovate Industries,Email,Men 18-24,30 days,0.09,16227.49,5.08,Miami,English,916,9844,6,Foodies,2023-07-05
+TechCorp,Social Media,Men 18-24,60 days,0.11,17615.34,2.76,Chicago,French,464,5658,9,Outdoor Adventurers,2023-07-24
+Alpha Innovations,Search,Women 35-44,45 days,0.12,7991.13,6.08,Las Vegas,Spanish,1827,19030,3,Outdoor Adventurers,2023-07-07
+NexGen Systems,Display,Women 35-44,30 days,0.03,7281.8,6.68,Miami,Spanish,1725,18333,7,Outdoor Adventurers,2023-07-01
+Alpha Innovations,Display,Men 25-34,15 days,0.06,13098.68,2.91,Seattle,French,1884,8126,10,Outdoor Adventurers,2023-07-01
+DataTech Solutions,Email,Men 18-24,15 days,0.06,18316.29,7.27,Seattle,Mandarin,1797,5854,6,Fashionistas,2023-07-02
+NexGen Systems,Search,Women 25-34,15 days,0.13,8890.46,6.59,Las Vegas,English,868,19426,7,Fashionistas,2023-07-10
+Alpha Innovations,Search,Men 18-24,45 days,0.04,5522.04,7.2,Los Ángeles,French,645,2582,4,Outdoor Adventurers,2023-07-22
+TechCorp,Email,Women 25-34,30 days,0.01,19611.54,4.65,San Francisco,Spanish,1596,14519,6,Health & Wellness,2023-07-21
+NexGen Systems,Display,Women 35-44,30 days,0.12,16528.36,3.35,Washington D.C.,French,1751,3373,2,Fashionistas,2023-07-22
+Innovate Industries,Display,Women 35-44,45 days,0.13,18380.9,4.64,San Francisco,German,1953,12474,8,Outdoor Adventurers,2023-07-08
+Innovate Industries,Email,Women 35-44,15 days,0.08,12380.24,4.88,Nueva York,Spanish,1987,7887,5,Fashionistas,2023-07-01
+DataTech Solutions,Search,Women 25-34,30 days,0.04,17249.02,6.06,Chicago,English,1761,10861,7,Outdoor Adventurers,2023-07-16
+TechCorp,Influencer,All Ages,30 days,0.07,18997.8,5.2,Seattle,German,806,2377,10,Fashionistas,2023-07-22
+Innovate Industries,Display,All Ages,15 days,0.11,14251.12,3.98,Chicago,Mandarin,1933,7980,3,Health & Wellness,2023-07-04
+NexGen Systems,Influencer,Men 18-24,30 days,0.15,6463.99,7.17,Nueva York,Spanish,979,8131,7,Foodies,2023-07-26
+TechCorp,Influencer,All Ages,45 days,0.14,10920.14,4.35,San Francisco,German,135,19231,10,Outdoor Adventurers,2023-07-24
+NexGen Systems,Email,Men 25-34,15 days,0.04,5898.95,4.59,Miami,German,1599,1170,4,Health & Wellness,2023-07-10
+Alpha Innovations,Email,Women 35-44,15 days,0.05,15301.48,3.52,Nueva York,Spanish,1017,2915,1,Tech Enthusiasts,2023-07-14
+DataTech Solutions,Email,Men 18-24,45 days,0.13,18762.16,6.53,Los Ángeles,French,298,18320,9,Outdoor Adventurers,2023-07-17
+DataTech Solutions,Search,Women 35-44,30 days,0.11,9627.63,3.95,Las Vegas,French,938,9497,8,Foodies,2023-07-27
+TechCorp,Influencer,Men 18-24,30 days,0.14,19095.79,6.42,Nueva Orleans,French,1126,19772,8,Outdoor Adventurers,2023-07-02
+NexGen Systems,Email,Women 25-34,30 days,0.06,11907.22,3.57,Seattle,Spanish,1946,3971,5,Foodies,2023-07-07
+Innovate Industries,Display,Men 25-34,15 days,0.13,11775.98,5.49,Las Vegas,German,1082,12255,4,Health & Wellness,2023-07-22
+NexGen Systems,Email,Men 18-24,15 days,0.11,13498.14,6.76,Miami,English,1262,13683,10,Health & Wellness,2023-07-05
+Innovate Industries,Search,Men 18-24,15 days,0.03,5800.69,7.94,Las Vegas,German,440,19018,3,Health & Wellness,2023-07-25
+NexGen Systems,Social Media,Women 25-34,30 days,0.09,15109.39,7.08,San Francisco,German,224,19415,5,Fashionistas,2023-07-25
+Alpha Innovations,Social Media,Men 25-34,45 days,0.13,18283.71,4.31,Nueva Orleans,French,1379,6916,9,Foodies,2023-07-08
+NexGen Systems,Influencer,Women 25-34,60 days,0.06,16661.62,4.95,Los Ángeles,Spanish,1705,13381,10,Tech Enthusiasts,2023-07-15
+TechCorp,Social Media,Men 25-34,45 days,0.1,5002.33,2.27,Miami,French,1982,6628,7,Tech Enthusiasts,2023-07-19
+NexGen Systems,Email,Women 35-44,15 days,0.05,11100.93,5.71,Nueva Orleans,German,568,8645,10,Tech Enthusiasts,2023-07-17
+NexGen Systems,Display,All Ages,45 days,0.02,19605.14,6.55,Miami,Spanish,256,1214,10,Fashionistas,2023-07-26
+NexGen Systems,Display,Men 18-24,15 days,0.06,16271.56,2.08,Nueva Orleans,German,1964,10444,3,Health & Wellness,2023-07-23
+NexGen Systems,Search,All Ages,15 days,0.12,8707.79,4.3,Nueva Orleans,Spanish,1162,6734,4,Fashionistas,2023-07-27
+Alpha Innovations,Email,Men 25-34,45 days,0.07,13399.97,4.79,Seattle,German,1033,15070,2,Outdoor Adventurers,2023-07-02
+DataTech Solutions,Email,Men 25-34,60 days,0.08,12814.04,2.92,Boston,German,1306,5137,10,Fashionistas,2023-07-21
+Alpha Innovations,Search,Women 25-34,30 days,0.02,8925.39,5.77,Seattle,French,1971,16087,3,Fashionistas,2023-07-01
+TechCorp,Social Media,Women 25-34,60 days,0.05,18393.16,5.04,Miami,French,1211,1504,2,Tech Enthusiasts,2023-07-18
+DataTech Solutions,Social Media,All Ages,60 days,0.13,6191.75,7.93,Chicago,Spanish,1978,5368,8,Health & Wellness,2023-07-11
+DataTech Solutions,Display,Men 18-24,60 days,0.05,8698.31,6.58,Los Ángeles,German,1063,11472,5,Outdoor Adventurers,2023-07-06
+TechCorp,Influencer,Women 35-44,15 days,0.13,12347.54,3.23,Las Vegas,Spanish,1905,4701,6,Health & Wellness,2023-07-12
+Alpha Innovations,Email,Men 18-24,30 days,0.09,15714.51,6.3,Las Vegas,German,608,12472,9,Outdoor Adventurers,2023-07-08
+DataTech Solutions,Display,Men 18-24,45 days,0.09,16499.02,5.8,Las Vegas,Mandarin,1508,7601,7,Foodies,2023-07-04
+TechCorp,Social Media,All Ages,15 days,0.05,15707.11,7.47,Nueva York,French,1638,5757,4,Outdoor Adventurers,2023-07-24
+Innovate Industries,Influencer,Women 25-34,60 days,0.11,17900.21,6.25,Washington D.C.,German,1138,16127,9,Fashionistas,2023-07-18
+TechCorp,Display,Men 18-24,15 days,0.08,11275.55,2.54,Las Vegas,French,1207,5280,2,Foodies,2023-07-09
+Innovate Industries,Search,Men 18-24,30 days,0.03,9473.21,5.29,Boston,German,1454,11220,10,Outdoor Adventurers,2023-07-26
+DataTech Solutions,Social Media,All Ages,60 days,0.12,17627.74,5.66,Nueva Orleans,Mandarin,1108,19701,6,Tech Enthusiasts,2023-07-14
+Alpha Innovations,Display,Women 35-44,60 days,0.03,18018.44,5.84,Los Ángeles,German,1953,2322,6,Tech Enthusiasts,2023-07-05
+Alpha Innovations,Display,Men 18-24,15 days,0.04,10225.67,3.38,Las Vegas,Mandarin,829,4063,1,Foodies,2023-07-12
+Innovate Industries,Social Media,Women 35-44,45 days,0.01,7650.72,6.22,Las Vegas,German,117,13187,10,Fashionistas,2023-07-14
+NexGen Systems,Influencer,Men 18-24,60 days,0.14,19010.41,5.72,Washington D.C.,Mandarin,122,15376,4,Outdoor Adventurers,2023-07-18
+TechCorp,Email,All Ages,60 days,0.12,7712.44,3.89,Nueva York,Mandarin,590,12021,7,Fashionistas,2023-07-20
+DataTech Solutions,Email,Men 18-24,15 days,0.12,15550.48,2.38,Nueva York,French,1855,16461,1,Fashionistas,2023-07-03
+Alpha Innovations,Email,Women 35-44,60 days,0.11,11943.62,6.74,Boston,French,602,18222,2,Outdoor Adventurers,2023-07-05
+DataTech Solutions,Email,Men 25-34,15 days,0.1,11760.45,3.59,Nueva Orleans,Spanish,838,19775,5,Foodies,2023-07-18
+Innovate Industries,Email,Men 25-34,15 days,0.02,12034.19,4.55,Boston,English,1875,15897,8,Fashionistas,2023-07-20
+Alpha Innovations,Search,All Ages,30 days,0.11,11946.18,5.65,San Francisco,German,1698,5585,6,Health & Wellness,2023-07-29
+TechCorp,Display,Women 35-44,60 days,0.07,14687.83,2.53,Los Ángeles,French,1468,11734,9,Tech Enthusiasts,2023-07-20
+TechCorp,Email,Women 25-34,45 days,0.07,11893.3,4.22,Las Vegas,Mandarin,484,18879,7,Fashionistas,2023-07-19
+Innovate Industries,Email,Women 25-34,15 days,0.09,19006.11,3.4,San Francisco,Mandarin,373,6263,5,Tech Enthusiasts,2023-07-02
+Alpha Innovations,Email,Women 25-34,45 days,0.13,14462.64,5.73,Washington D.C.,English,179,7243,4,Tech Enthusiasts,2023-07-02
+Innovate Industries,Influencer,Men 25-34,45 days,0.13,8373.94,6.91,Chicago,Spanish,1236,14674,10,Fashionistas,2023-07-16
+DataTech Solutions,Display,Men 25-34,15 days,0.08,18624.4,6.04,Seattle,French,1132,3772,5,Outdoor Adventurers,2023-07-06
+Alpha Innovations,Email,All Ages,60 days,0.12,13021.32,2.94,Washington D.C.,German,1640,4209,1,Tech Enthusiasts,2023-07-04
+TechCorp,Display,Women 25-34,45 days,0.15,18945.27,2.96,Boston,Spanish,1741,10079,5,Fashionistas,2023-07-15
+NexGen Systems,Influencer,Women 25-34,60 days,0.06,14260.49,6.53,Chicago,German,598,18177,5,Tech Enthusiasts,2023-07-10
+Alpha Innovations,Social Media,Men 18-24,45 days,0.07,8874.16,2.84,Las Vegas,English,1490,14001,4,Foodies,2023-07-24
+Alpha Innovations,Email,All Ages,60 days,0.13,10702.03,5.34,Miami,Mandarin,1248,7852,5,Tech Enthusiasts,2023-07-17
+Innovate Industries,Display,All Ages,30 days,0.09,16750.72,7.44,Washington D.C.,English,1635,6512,2,Fashionistas,2023-07-10
+Innovate Industries,Display,Women 25-34,15 days,0.1,13209.25,6.94,Las Vegas,German,792,4134,2,Fashionistas,2023-07-12
+TechCorp,Email,All Ages,45 days,0.15,7408.6,5.06,Nueva York,German,1195,4566,3,Outdoor Adventurers,2023-07-27
+DataTech Solutions,Influencer,Women 25-34,15 days,0.02,17687.6,4.29,Seattle,Spanish,693,11586,8,Health & Wellness,2023-07-07
+Alpha Innovations,Email,Men 18-24,60 days,0.03,13191.01,6.5,Miami,German,482,17072,6,Fashionistas,2023-07-08
+Alpha Innovations,Social Media,All Ages,15 days,0.07,18927.74,5.9,Boston,German,890,17366,3,Outdoor Adventurers,2023-07-01
+Alpha Innovations,Influencer,All Ages,60 days,0.09,7809.24,2.7,Nueva Orleans,Spanish,431,5362,2,Fashionistas,2023-07-24
+TechCorp,Social Media,Women 25-34,30 days,0.02,13210.29,7.04,Chicago,Spanish,1179,7739,1,Fashionistas,2023-07-25
+NexGen Systems,Email,Women 25-34,60 days,0.08,14580.72,3.43,Las Vegas,German,820,16818,10,Foodies,2023-07-14
+DataTech Solutions,Search,Men 18-24,30 days,0.05,7710.28,3.45,San Francisco,German,313,6764,9,Outdoor Adventurers,2023-07-10
+NexGen Systems,Email,All Ages,15 days,0.05,17532.97,6.06,Nueva York,English,1874,3539,2,Tech Enthusiasts,2023-07-11
+DataTech Solutions,Influencer,Women 25-34,60 days,0.09,12469.73,4.94,Seattle,French,1722,2719,9,Health & Wellness,2023-07-22
+Innovate Industries,Influencer,Men 18-24,15 days,0.07,15269.74,4.87,Washington D.C.,French,207,3818,2,Outdoor Adventurers,2023-07-20
+Innovate Industries,Influencer,All Ages,60 days,0.03,11307.63,2.36,Chicago,English,1304,13221,6,Health & Wellness,2023-07-16
+Alpha Innovations,Display,Men 18-24,45 days,0.01,6461.11,3.32,Boston,Mandarin,1128,19430,4,Health & Wellness,2023-07-24
+DataTech Solutions,Search,Women 25-34,45 days,0.14,18667.01,5.85,San Francisco,French,372,15387,8,Tech Enthusiasts,2023-07-16
+TechCorp,Display,Men 18-24,15 days,0.13,11883.15,4.3,Boston,Mandarin,578,7857,6,Outdoor Adventurers,2023-07-08
+TechCorp,Influencer,Women 25-34,30 days,0.12,12154.73,7.88,Washington D.C.,Mandarin,866,4892,6,Tech Enthusiasts,2023-07-23
+NexGen Systems,Search,Men 25-34,60 days,0.07,18925.92,2.85,Boston,Mandarin,863,5104,8,Health & Wellness,2023-07-21
+DataTech Solutions,Email,Women 35-44,60 days,0.13,11320.92,3.75,Nueva York,German,1088,18389,3,Fashionistas,2023-07-21
+Alpha Innovations,Influencer,Women 35-44,60 days,0.06,14101.45,6.61,Miami,French,300,9110,8,Health & Wellness,2023-07-13
+NexGen Systems,Display,Men 18-24,15 days,0.09,17362.86,5.24,Los Ángeles,German,1036,1971,10,Health & Wellness,2023-07-04
+TechCorp,Social Media,All Ages,45 days,0.03,12277.94,2.16,Nueva York,English,1261,13306,4,Foodies,2023-07-04
+Innovate Industries,Display,Men 25-34,60 days,0.12,14353.1,6.58,Nueva Orleans,Mandarin,224,11626,1,Foodies,2023-07-22
+Innovate Industries,Email,All Ages,45 days,0.1,6495.66,4.33,Seattle,Mandarin,1865,12831,5,Fashionistas,2023-07-03
+DataTech Solutions,Social Media,All Ages,45 days,0.13,10012.04,2.2,Los Ángeles,German,1094,9609,5,Fashionistas,2023-07-09
+DataTech Solutions,Display,Men 18-24,15 days,0.04,16339.36,3.62,Nueva Orleans,Mandarin,1055,11405,3,Fashionistas,2023-07-28
+DataTech Solutions,Display,Men 25-34,45 days,0.05,9002.26,2.75,Los Ángeles,German,749,17411,8,Health & Wellness,2023-07-29
+TechCorp,Search,All Ages,15 days,0.13,8473.88,2.54,Boston,German,127,1090,1,Tech Enthusiasts,2023-07-19
+NexGen Systems,Influencer,Women 25-34,60 days,0.12,9570.06,3.0,Nueva Orleans,Mandarin,1784,18400,5,Health & Wellness,2023-07-14
+TechCorp,Display,All Ages,60 days,0.04,17719.95,4.26,Seattle,French,1175,12908,6,Outdoor Adventurers,2023-07-20
+DataTech Solutions,Search,Women 35-44,30 days,0.06,9710.9,7.29,Nueva York,Mandarin,958,3039,6,Health & Wellness,2023-07-10
+Alpha Innovations,Email,Men 18-24,60 days,0.04,7357.54,7.24,Chicago,English,923,13977,1,Tech Enthusiasts,2023-07-28
+Innovate Industries,Social Media,All Ages,45 days,0.04,17891.43,2.53,San Francisco,Spanish,836,12990,5,Foodies,2023-07-02
+Alpha Innovations,Social Media,Women 25-34,30 days,0.08,10996.2,3.68,Los Ángeles,English,728,10352,8,Foodies,2023-07-14
+TechCorp,Email,Women 35-44,60 days,0.03,10684.4,6.9,Boston,English,1034,13494,1,Health & Wellness,2023-07-14
+Innovate Industries,Search,Men 25-34,45 days,0.14,17517.6,7.65,Nueva Orleans,English,706,4188,8,Health & Wellness,2023-07-07
+Innovate Industries,Influencer,Men 25-34,30 days,0.04,15241.33,3.83,Chicago,Mandarin,1103,7735,4,Outdoor Adventurers,2023-07-14
+DataTech Solutions,Display,Women 35-44,15 days,0.04,7150.32,6.98,Los Ángeles,French,1363,5978,10,Health & Wellness,2023-07-14
+TechCorp,Social Media,All Ages,45 days,0.04,7565.68,4.26,Washington D.C.,English,1457,19325,4,Foodies,2023-07-12
+NexGen Systems,Display,Women 25-34,60 days,0.1,7142.04,7.32,Washington D.C.,French,635,10700,2,Tech Enthusiasts,2023-07-15
+DataTech Solutions,Search,Men 25-34,60 days,0.13,11592.51,4.64,Miami,French,1807,11519,2,Tech Enthusiasts,2023-07-23
+NexGen Systems,Social Media,Women 25-34,30 days,0.02,16419.8,3.91,Miami,English,1412,12301,5,Health & Wellness,2023-07-06
+TechCorp,Search,Women 25-34,15 days,0.15,8326.99,3.49,Seattle,Spanish,405,18647,1,Fashionistas,2023-07-25
+Innovate Industries,Social Media,All Ages,15 days,0.14,15518.43,5.85,Las Vegas,Mandarin,402,18477,2,Outdoor Adventurers,2023-07-05
+DataTech Solutions,Influencer,Women 35-44,30 days,0.14,6417.58,3.24,Chicago,French,1783,10404,3,Tech Enthusiasts,2023-07-18
+NexGen Systems,Display,All Ages,30 days,0.13,11963.48,2.2,Washington D.C.,Spanish,1457,11650,7,Fashionistas,2023-07-20
+NexGen Systems,Search,Men 25-34,45 days,0.1,18379.11,2.19,Boston,Spanish,1249,4955,9,Tech Enthusiasts,2023-07-04
+TechCorp,Email,Men 18-24,15 days,0.02,11907.86,3.89,Nueva Orleans,Spanish,1513,9247,1,Fashionistas,2023-07-20
+NexGen Systems,Email,All Ages,15 days,0.1,15043.18,5.96,Washington D.C.,Spanish,1292,13953,2,Fashionistas,2023-07-01
+DataTech Solutions,Influencer,Men 18-24,45 days,0.08,7537.59,4.03,Miami,Spanish,1297,17927,7,Fashionistas,2023-07-05
+Alpha Innovations,Social Media,All Ages,60 days,0.02,16024.52,7.71,Washington D.C.,German,1030,10473,8,Outdoor Adventurers,2023-07-23
+TechCorp,Search,Women 35-44,45 days,0.12,10567.59,7.41,San Francisco,Mandarin,1267,1204,7,Foodies,2023-07-03
+Innovate Industries,Display,All Ages,15 days,0.09,9910.47,5.83,Miami,German,1799,6936,6,Tech Enthusiasts,2023-07-02
+Alpha Innovations,Email,All Ages,30 days,0.11,5151.07,7.08,Boston,German,934,5507,9,Tech Enthusiasts,2023-07-04
+Innovate Industries,Social Media,Men 25-34,60 days,0.13,10088.14,6.17,Washington D.C.,German,1360,13170,2,Health & Wellness,2023-07-19
+Innovate Industries,Search,All Ages,30 days,0.03,5646.36,7.54,Nueva Orleans,English,975,1465,8,Foodies,2023-07-11
+TechCorp,Email,All Ages,45 days,0.07,7319.46,5.54,Nueva Orleans,Spanish,1257,13536,1,Foodies,2023-07-26
+TechCorp,Email,Men 18-24,60 days,0.13,12525.41,6.99,San Francisco,Spanish,1843,13912,6,Foodies,2023-07-19
+TechCorp,Social Media,Men 25-34,30 days,0.12,12488.17,5.25,Miami,German,1261,10415,7,Foodies,2023-07-08
+Alpha Innovations,Influencer,Men 25-34,30 days,0.05,13501.45,4.85,Washington D.C.,Spanish,1370,12528,9,Outdoor Adventurers,2023-07-04
+Alpha Innovations,Email,Men 18-24,45 days,0.12,12509.39,4.76,Nueva York,German,1490,9349,10,Fashionistas,2023-07-21
+TechCorp,Influencer,Women 35-44,30 days,0.04,10831.99,4.75,Chicago,French,262,17696,6,Fashionistas,2023-07-14
+Alpha Innovations,Social Media,Men 25-34,15 days,0.13,13734.46,7.48,Washington D.C.,Mandarin,125,13940,5,Outdoor Adventurers,2023-07-06
+Alpha Innovations,Social Media,Men 25-34,15 days,0.14,16229.47,7.52,Boston,German,722,1898,5,Health & Wellness,2023-07-17
+NexGen Systems,Search,Women 35-44,60 days,0.12,7055.85,2.61,Chicago,English,1456,10036,5,Outdoor Adventurers,2023-07-28
+Innovate Industries,Social Media,Men 25-34,60 days,0.04,12005.03,6.33,Chicago,Mandarin,1036,17357,9,Foodies,2023-07-02
+Alpha Innovations,Influencer,Men 25-34,45 days,0.01,8194.75,7.49,San Francisco,English,383,12698,1,Foodies,2023-07-05
+TechCorp,Display,Women 25-34,15 days,0.1,12138.99,6.14,Boston,French,792,1181,10,Tech Enthusiasts,2023-07-17
+Alpha Innovations,Email,Men 25-34,45 days,0.06,8583.57,4.12,Chicago,Mandarin,243,8678,6,Outdoor Adventurers,2023-07-12
+Innovate Industries,Social Media,Men 18-24,15 days,0.02,16179.4,6.87,Las Vegas,English,1130,13290,5,Foodies,2023-07-05
+NexGen Systems,Email,Women 25-34,45 days,0.1,7881.63,5.84,Chicago,French,979,5040,8,Outdoor Adventurers,2023-07-26
+Alpha Innovations,Social Media,Men 18-24,60 days,0.15,17910.69,4.26,Nueva York,English,239,1079,10,Outdoor Adventurers,2023-07-26
+DataTech Solutions,Influencer,Women 35-44,30 days,0.14,12155.78,5.32,Nueva York,German,1541,14888,10,Fashionistas,2023-07-18
+DataTech Solutions,Email,Women 25-34,30 days,0.02,14647.27,2.08,Chicago,German,331,16477,10,Foodies,2023-07-13
+Alpha Innovations,Influencer,Men 25-34,60 days,0.02,9674.45,5.01,Nueva York,German,1489,16868,7,Tech Enthusiasts,2023-07-26
+DataTech Solutions,Influencer,All Ages,30 days,0.04,17102.66,6.46,Washington D.C.,English,378,19770,5,Health & Wellness,2023-07-18
+DataTech Solutions,Email,Men 25-34,15 days,0.06,17495.83,4.93,Nueva Orleans,German,128,12677,6,Health & Wellness,2023-07-12
+Alpha Innovations,Search,All Ages,30 days,0.13,10391.44,2.82,Las Vegas,German,324,15077,4,Foodies,2023-07-16
+Alpha Innovations,Email,Men 18-24,45 days,0.02,18376.78,5.27,Boston,English,1781,8766,6,Health & Wellness,2023-07-21
+DataTech Solutions,Search,Women 25-34,15 days,0.11,12928.29,6.05,Seattle,Spanish,1573,9223,1,Tech Enthusiasts,2023-07-30
+TechCorp,Email,Women 35-44,30 days,0.1,5453.31,6.62,Miami,English,1796,12785,8,Health & Wellness,2023-07-23
+Innovate Industries,Social Media,Women 35-44,30 days,0.11,9227.44,3.95,Washington D.C.,English,548,3716,8,Foodies,2023-07-18
+Alpha Innovations,Social Media,Women 25-34,15 days,0.03,11855.0,4.38,Nueva Orleans,French,1809,6030,10,Health & Wellness,2023-07-01
+TechCorp,Search,Men 25-34,45 days,0.02,12309.56,3.61,Seattle,French,721,4793,4,Health & Wellness,2023-07-17
+Innovate Industries,Influencer,Women 35-44,45 days,0.01,5992.3,2.31,Nueva Orleans,German,753,6995,4,Fashionistas,2023-07-18
+NexGen Systems,Search,Women 35-44,15 days,0.04,15872.87,5.57,Chicago,Mandarin,1452,16435,3,Fashionistas,2023-07-27
+NexGen Systems,Social Media,Men 25-34,30 days,0.08,12537.16,2.49,Boston,German,1581,14275,7,Outdoor Adventurers,2023-07-18
+Alpha Innovations,Social Media,All Ages,60 days,0.03,10014.0,2.12,Chicago,French,1353,18856,8,Health & Wellness,2023-07-09
+Alpha Innovations,Influencer,Men 18-24,45 days,0.05,10689.51,5.34,Seattle,Mandarin,314,17034,9,Health & Wellness,2023-07-16
+DataTech Solutions,Search,Women 25-34,30 days,0.12,6748.74,4.32,Washington D.C.,Mandarin,1020,11923,10,Health & Wellness,2023-07-15
+NexGen Systems,Social Media,All Ages,45 days,0.08,10843.77,4.82,Nueva Orleans,Spanish,392,8480,1,Health & Wellness,2023-07-06
+DataTech Solutions,Search,All Ages,45 days,0.13,19135.92,7.55,San Francisco,Mandarin,1448,15918,7,Foodies,2023-07-14
+NexGen Systems,Search,Women 35-44,30 days,0.1,16624.33,7.3,Washington D.C.,French,887,4752,8,Foodies,2023-07-03
+TechCorp,Social Media,Men 18-24,45 days,0.06,9577.33,3.49,Boston,French,1847,6432,2,Fashionistas,2023-07-27
+TechCorp,Search,Men 25-34,60 days,0.14,18724.48,6.71,Nueva York,Spanish,1141,4001,4,Foodies,2023-07-18
+Innovate Industries,Influencer,All Ages,15 days,0.08,10110.16,4.2,Chicago,Mandarin,1555,7881,10,Fashionistas,2023-07-12
+Alpha Innovations,Social Media,Women 25-34,60 days,0.05,11879.23,3.47,Boston,English,582,5347,8,Fashionistas,2023-07-30
+TechCorp,Influencer,All Ages,30 days,0.06,15403.74,2.13,Nueva Orleans,German,1973,7353,3,Tech Enthusiasts,2023-07-12
+Alpha Innovations,Influencer,All Ages,60 days,0.06,10461.45,4.91,San Francisco,French,1585,9132,2,Outdoor Adventurers,2023-07-09
+DataTech Solutions,Display,Men 25-34,45 days,0.07,12896.85,2.46,Nueva Orleans,Mandarin,289,14762,3,Fashionistas,2023-07-13
+Alpha Innovations,Email,All Ages,15 days,0.14,15553.89,2.55,Las Vegas,German,323,11949,9,Outdoor Adventurers,2023-07-18
+TechCorp,Email,Women 25-34,15 days,0.06,19520.61,4.23,Los Ángeles,Spanish,1326,12085,5,Tech Enthusiasts,2023-07-02
+Alpha Innovations,Display,Women 25-34,15 days,0.1,17978.78,3.44,Nueva Orleans,German,180,17113,1,Fashionistas,2023-07-08
+DataTech Solutions,Influencer,Men 25-34,30 days,0.09,13879.02,2.34,San Francisco,English,336,19533,8,Tech Enthusiasts,2023-07-28
+Innovate Industries,Display,All Ages,15 days,0.15,17904.12,5.38,Chicago,German,917,5265,7,Outdoor Adventurers,2023-07-16
+NexGen Systems,Email,Men 18-24,15 days,0.11,9983.3,2.79,Chicago,French,1617,17068,1,Foodies,2023-07-25
+Alpha Innovations,Display,Women 35-44,60 days,0.07,11125.42,2.97,Nueva York,German,1055,3336,1,Foodies,2023-07-02
+Alpha Innovations,Email,Men 18-24,15 days,0.02,7357.17,7.16,Boston,Mandarin,1403,10552,10,Tech Enthusiasts,2023-07-20
+Innovate Industries,Display,All Ages,15 days,0.11,9498.46,7.48,Chicago,English,748,1296,6,Outdoor Adventurers,2023-07-21
+Alpha Innovations,Display,Men 18-24,60 days,0.13,14489.58,6.92,Los Ángeles,Spanish,1097,16395,4,Foodies,2023-07-03
+NexGen Systems,Search,All Ages,60 days,0.12,10718.17,7.47,Seattle,English,1093,2343,2,Health & Wellness,2023-07-22
+Alpha Innovations,Search,Women 25-34,15 days,0.06,16004.39,2.47,Seattle,Mandarin,1314,11883,10,Outdoor Adventurers,2023-07-08
+NexGen Systems,Search,Men 18-24,45 days,0.09,11977.5,2.53,Boston,German,1047,19328,4,Health & Wellness,2023-07-12
+NexGen Systems,Social Media,Women 35-44,60 days,0.12,18764.31,2.65,Las Vegas,Spanish,1433,16195,1,Tech Enthusiasts,2023-07-16
+NexGen Systems,Email,Women 25-34,30 days,0.14,19600.13,6.68,Boston,English,145,6949,6,Health & Wellness,2023-07-26
+NexGen Systems,Search,Women 35-44,45 days,0.06,5830.15,3.36,Washington D.C.,French,103,13396,5,Foodies,2023-07-15
+NexGen Systems,Social Media,All Ages,60 days,0.06,17152.54,6.29,Seattle,Spanish,647,8022,9,Outdoor Adventurers,2023-07-25
+Innovate Industries,Influencer,Men 18-24,60 days,0.15,6497.7,6.94,Washington D.C.,Mandarin,1792,17263,5,Foodies,2023-07-02
+TechCorp,Display,Women 35-44,30 days,0.14,12747.58,4.69,Los Ángeles,German,698,5144,4,Fashionistas,2023-07-09
+TechCorp,Influencer,Women 25-34,15 days,0.13,11305.81,7.88,Boston,Spanish,494,3268,2,Tech Enthusiasts,2023-07-30
+NexGen Systems,Social Media,All Ages,15 days,0.12,9405.13,3.32,Los Ángeles,English,1433,17876,7,Fashionistas,2023-07-20
+NexGen Systems,Email,Women 35-44,60 days,0.08,10510.77,7.96,Miami,Spanish,798,10732,3,Foodies,2023-07-30
+Alpha Innovations,Influencer,Women 35-44,15 days,0.13,11898.93,2.16,Nueva Orleans,English,630,18397,6,Outdoor Adventurers,2023-07-05
+Alpha Innovations,Search,Men 18-24,30 days,0.04,15097.01,7.15,Los Ángeles,English,1805,13547,4,Fashionistas,2023-07-30
+NexGen Systems,Influencer,Men 18-24,15 days,0.09,16675.5,2.85,Las Vegas,French,1248,14758,9,Tech Enthusiasts,2023-07-26
+TechCorp,Email,Women 25-34,30 days,0.11,11875.29,2.63,Chicago,French,751,4510,1,Outdoor Adventurers,2023-07-19
+TechCorp,Search,Women 25-34,15 days,0.13,19699.74,4.52,Miami,Mandarin,955,19551,1,Outdoor Adventurers,2023-07-13
+Innovate Industries,Social Media,Women 35-44,30 days,0.09,16345.41,6.33,Washington D.C.,Spanish,1555,1058,10,Outdoor Adventurers,2023-07-13
+DataTech Solutions,Display,Women 35-44,60 days,0.03,5308.94,7.18,Los Ángeles,Mandarin,1837,10962,6,Outdoor Adventurers,2023-07-13
+Alpha Innovations,Search,Men 25-34,15 days,0.12,15688.87,4.33,Seattle,Spanish,1992,12058,5,Outdoor Adventurers,2023-07-02
+DataTech Solutions,Social Media,All Ages,15 days,0.13,8210.76,2.36,Chicago,German,562,12934,8,Health & Wellness,2023-07-07
+NexGen Systems,Influencer,Women 35-44,45 days,0.09,5300.39,6.74,Nueva York,German,1170,1132,2,Foodies,2023-07-10
+Innovate Industries,Influencer,Men 18-24,30 days,0.09,10085.95,7.68,Nueva Orleans,German,1971,3246,7,Outdoor Adventurers,2023-07-16
+Innovate Industries,Display,Men 25-34,15 days,0.11,18870.89,4.92,Washington D.C.,Spanish,1584,15654,6,Fashionistas,2023-07-26
+Alpha Innovations,Display,Women 25-34,60 days,0.09,17498.61,5.58,Boston,French,1519,18683,5,Outdoor Adventurers,2023-07-19
+NexGen Systems,Social Media,Men 18-24,15 days,0.04,17499.75,5.43,Chicago,French,990,18909,3,Outdoor Adventurers,2023-07-02
+TechCorp,Influencer,Men 18-24,60 days,0.03,13349.47,2.85,Nueva Orleans,English,1842,12935,10,Health & Wellness,2023-07-16
+TechCorp,Social Media,Women 35-44,15 days,0.11,17996.94,2.85,Seattle,English,1027,18455,8,Fashionistas,2023-07-06
+TechCorp,Influencer,Men 25-34,30 days,0.11,15125.3,6.49,San Francisco,Spanish,1814,14227,6,Health & Wellness,2023-07-15
+NexGen Systems,Display,Women 25-34,30 days,0.1,5897.6,4.95,Seattle,German,215,17896,8,Foodies,2023-07-10
+Alpha Innovations,Email,Men 25-34,15 days,0.06,15637.92,6.0,Boston,Mandarin,1615,14059,6,Fashionistas,2023-07-17
+DataTech Solutions,Social Media,All Ages,45 days,0.04,18678.13,6.58,Washington D.C.,English,1186,15721,4,Foodies,2023-07-24
+NexGen Systems,Social Media,All Ages,30 days,0.02,12606.99,4.57,San Francisco,French,1682,15832,3,Fashionistas,2023-07-26
+DataTech Solutions,Social Media,Men 18-24,45 days,0.09,17408.85,6.28,Miami,German,1129,2900,10,Tech Enthusiasts,2023-07-19
+DataTech Solutions,Display,Men 25-34,45 days,0.09,16943.41,4.47,Miami,Spanish,492,6934,9,Outdoor Adventurers,2023-07-20
+Innovate Industries,Email,All Ages,45 days,0.15,17819.56,6.53,Nueva Orleans,Spanish,1554,4572,6,Outdoor Adventurers,2023-07-15
+TechCorp,Social Media,All Ages,15 days,0.13,7869.59,4.07,Nueva Orleans,German,1844,9009,7,Outdoor Adventurers,2023-07-02
+NexGen Systems,Influencer,Women 25-34,15 days,0.14,12568.73,7.29,Seattle,German,100,5315,10,Fashionistas,2023-07-02
+Alpha Innovations,Social Media,Men 25-34,30 days,0.12,14038.28,2.7,Las Vegas,German,372,2823,6,Tech Enthusiasts,2023-07-25
+Alpha Innovations,Social Media,Women 35-44,60 days,0.04,12255.28,3.57,Nueva York,Mandarin,1931,12871,5,Health & Wellness,2023-07-20
+Innovate Industries,Search,All Ages,15 days,0.07,16549.56,2.17,San Francisco,Mandarin,1517,4472,6,Health & Wellness,2023-07-25
+Alpha Innovations,Influencer,Women 35-44,45 days,0.14,18055.63,5.85,Nueva York,German,755,6478,1,Health & Wellness,2023-07-24
+NexGen Systems,Email,All Ages,60 days,0.08,6010.42,5.05,San Francisco,English,1370,8975,3,Fashionistas,2023-07-20
+TechCorp,Social Media,Men 18-24,45 days,0.14,10492.81,5.29,Washington D.C.,Mandarin,1504,11715,1,Health & Wellness,2023-07-29
+Innovate Industries,Email,Men 18-24,15 days,0.05,16933.61,4.16,Boston,French,1340,16753,4,Fashionistas,2023-07-12
+NexGen Systems,Influencer,Men 18-24,60 days,0.09,10503.75,7.09,Boston,German,661,11757,6,Tech Enthusiasts,2023-07-20
+NexGen Systems,Influencer,Men 18-24,60 days,0.04,8513.77,4.52,Nueva York,French,1492,16894,6,Foodies,2023-07-05
+TechCorp,Influencer,Men 18-24,60 days,0.14,19028.4,2.19,Seattle,Spanish,1651,16275,4,Outdoor Adventurers,2023-07-09
+TechCorp,Email,Men 25-34,30 days,0.07,5431.59,3.55,Los Ángeles,German,1906,8434,4,Health & Wellness,2023-07-08
+Alpha Innovations,Email,Women 35-44,15 days,0.14,6195.76,3.07,San Francisco,Mandarin,889,19038,10,Outdoor Adventurers,2023-07-01
+Alpha Innovations,Display,All Ages,45 days,0.01,6784.47,4.78,Boston,French,1427,13975,6,Tech Enthusiasts,2023-07-14
+TechCorp,Email,Women 35-44,15 days,0.09,12603.11,5.91,Boston,English,1724,9087,1,Health & Wellness,2023-07-09
+NexGen Systems,Influencer,All Ages,60 days,0.13,13469.32,5.41,Seattle,Spanish,230,18014,2,Foodies,2023-07-21
+NexGen Systems,Search,Men 25-34,15 days,0.14,12732.4,6.4,Los Ángeles,French,1946,5104,7,Fashionistas,2023-07-27
+TechCorp,Display,Women 25-34,45 days,0.03,18344.93,5.56,Seattle,Mandarin,1858,15936,3,Outdoor Adventurers,2023-07-27
+Alpha Innovations,Influencer,Men 25-34,30 days,0.07,13288.52,7.15,Las Vegas,English,1634,10288,5,Health & Wellness,2023-07-11
+DataTech Solutions,Display,All Ages,45 days,0.07,11545.88,4.25,Las Vegas,German,1000,5048,1,Tech Enthusiasts,2023-07-08
+DataTech Solutions,Email,Women 25-34,45 days,0.11,8941.14,7.31,San Francisco,French,1973,16110,4,Foodies,2023-07-11
+TechCorp,Social Media,Women 35-44,15 days,0.03,17606.4,3.55,Los Ángeles,German,277,4142,2,Fashionistas,2023-07-17
+Innovate Industries,Influencer,All Ages,60 days,0.13,15339.3,4.78,Los Ángeles,German,980,16452,5,Fashionistas,2023-07-29
+NexGen Systems,Display,Women 25-34,15 days,0.02,9121.49,3.37,Washington D.C.,Spanish,352,3430,3,Foodies,2023-07-29
+TechCorp,Email,Women 35-44,60 days,0.11,16036.4,7.71,Nueva York,English,439,9835,6,Outdoor Adventurers,2023-07-22
+NexGen Systems,Social Media,All Ages,45 days,0.12,11917.27,7.22,Washington D.C.,English,359,10266,10,Fashionistas,2023-07-01
+Alpha Innovations,Search,Men 18-24,45 days,0.14,16027.14,6.41,San Francisco,English,679,19841,5,Outdoor Adventurers,2023-07-28
+Alpha Innovations,Influencer,All Ages,30 days,0.11,18646.05,4.13,San Francisco,Spanish,344,12067,1,Foodies,2023-07-30
+Innovate Industries,Influencer,Men 25-34,45 days,0.14,15254.53,6.42,Miami,German,574,14480,7,Health & Wellness,2023-07-28
+NexGen Systems,Display,Men 25-34,60 days,0.07,13185.88,5.72,Chicago,German,875,19362,1,Outdoor Adventurers,2023-07-20
+TechCorp,Influencer,Women 35-44,45 days,0.06,5700.77,4.13,San Francisco,Mandarin,457,6965,1,Outdoor Adventurers,2023-07-24
+Innovate Industries,Social Media,All Ages,45 days,0.09,12828.85,6.73,Los Ángeles,English,836,17245,7,Fashionistas,2023-07-24
+DataTech Solutions,Display,Men 25-34,45 days,0.05,14463.23,2.87,Boston,Mandarin,321,16434,6,Foodies,2023-07-03
+NexGen Systems,Social Media,Men 25-34,45 days,0.01,17712.87,3.61,San Francisco,English,680,9350,10,Foodies,2023-07-06
+NexGen Systems,Display,All Ages,45 days,0.08,5804.92,7.82,Las Vegas,Spanish,1992,14406,8,Fashionistas,2023-07-07
+Innovate Industries,Influencer,Women 25-34,45 days,0.15,14007.05,4.18,Las Vegas,Spanish,853,7474,1,Health & Wellness,2023-07-10
+Alpha Innovations,Social Media,Men 25-34,60 days,0.03,13267.07,3.0,Washington D.C.,French,239,7821,3,Tech Enthusiasts,2023-07-01
+DataTech Solutions,Search,Men 25-34,30 days,0.05,17427.74,6.04,Miami,Spanish,179,9651,5,Outdoor Adventurers,2023-07-13
+Alpha Innovations,Social Media,Women 35-44,30 days,0.08,5921.01,6.73,Los Ángeles,German,511,18185,1,Tech Enthusiasts,2023-07-26
+NexGen Systems,Display,Women 25-34,30 days,0.05,16273.56,2.46,Chicago,English,885,9077,6,Foodies,2023-07-11
+TechCorp,Search,Women 35-44,60 days,0.07,14853.35,4.32,Nueva Orleans,Mandarin,1924,2103,9,Fashionistas,2023-07-06
+TechCorp,Display,All Ages,45 days,0.03,9140.0,2.14,Nueva Orleans,German,1041,15072,3,Outdoor Adventurers,2023-07-24
+NexGen Systems,Search,Men 25-34,30 days,0.01,15246.98,3.4,Seattle,English,888,6368,3,Tech Enthusiasts,2023-07-15
+Alpha Innovations,Influencer,All Ages,30 days,0.08,19806.17,3.65,Los Ángeles,Spanish,830,13050,1,Health & Wellness,2023-07-23
+Alpha Innovations,Influencer,Women 35-44,60 days,0.13,15183.92,3.76,Chicago,Mandarin,1272,13807,8,Tech Enthusiasts,2023-07-23
+Innovate Industries,Search,Women 35-44,45 days,0.09,11132.75,6.08,Nueva Orleans,English,393,7359,9,Tech Enthusiasts,2023-07-30
+Innovate Industries,Email,Men 18-24,60 days,0.04,14520.99,7.91,Chicago,Mandarin,1913,19050,7,Health & Wellness,2023-07-30
+TechCorp,Display,Women 35-44,45 days,0.02,7309.87,5.53,Las Vegas,French,479,8601,7,Foodies,2023-07-11
+Alpha Innovations,Display,Women 35-44,60 days,0.12,15929.22,2.15,Nueva York,German,813,11069,8,Foodies,2023-07-15
+TechCorp,Email,Women 25-34,60 days,0.11,10988.81,6.16,Nueva Orleans,German,308,1925,4,Fashionistas,2023-07-11
+Alpha Innovations,Search,Women 35-44,45 days,0.1,17802.72,3.35,Chicago,English,412,5093,6,Fashionistas,2023-07-08
+Innovate Industries,Search,Women 25-34,60 days,0.03,8147.61,7.44,Miami,Spanish,1325,3232,5,Foodies,2023-07-09
+Alpha Innovations,Display,Women 25-34,30 days,0.13,13153.76,2.62,Nueva York,Mandarin,374,5919,8,Foodies,2023-07-02
+NexGen Systems,Social Media,Men 25-34,30 days,0.14,13156.53,4.33,Chicago,Spanish,1976,5016,5,Foodies,2023-07-09
+DataTech Solutions,Social Media,Women 25-34,30 days,0.02,9603.21,7.2,Boston,Spanish,148,8320,7,Outdoor Adventurers,2023-07-15
+TechCorp,Influencer,Men 25-34,15 days,0.06,6122.82,3.62,San Francisco,Spanish,345,17636,10,Foodies,2023-07-19
+NexGen Systems,Influencer,All Ages,60 days,0.11,7129.73,5.51,Chicago,German,324,9175,10,Outdoor Adventurers,2023-07-11
+Innovate Industries,Display,Women 35-44,15 days,0.01,13620.28,4.74,Nueva Orleans,German,431,15623,3,Health & Wellness,2023-07-20
+TechCorp,Search,Men 18-24,15 days,0.1,12496.1,5.34,Washington D.C.,English,1172,15728,5,Health & Wellness,2023-07-06
+Alpha Innovations,Influencer,Women 35-44,15 days,0.13,19150.62,4.22,Las Vegas,Spanish,160,4564,4,Foodies,2023-07-12
+TechCorp,Display,Women 25-34,60 days,0.04,8037.65,5.2,San Francisco,Spanish,1251,17450,9,Health & Wellness,2023-07-25
+Alpha Innovations,Search,Men 25-34,60 days,0.09,9649.6,6.32,Boston,German,781,17233,10,Foodies,2023-07-07
+Innovate Industries,Search,Women 25-34,60 days,0.06,8202.97,4.06,Washington D.C.,German,1078,3475,6,Foodies,2023-07-29
+NexGen Systems,Search,Women 35-44,60 days,0.02,7726.73,5.07,Los Ángeles,Mandarin,1381,6411,9,Outdoor Adventurers,2023-07-09
+DataTech Solutions,Search,Women 25-34,45 days,0.06,5466.72,5.12,San Francisco,German,1054,11742,7,Outdoor Adventurers,2023-07-30
+Innovate Industries,Email,Men 18-24,30 days,0.05,11525.09,4.51,Boston,German,657,11279,1,Outdoor Adventurers,2023-07-22
+Innovate Industries,Search,Women 35-44,30 days,0.14,6668.64,7.92,Chicago,Spanish,1251,8083,2,Tech Enthusiasts,2023-07-03
+DataTech Solutions,Email,All Ages,15 days,0.12,12582.9,3.95,Seattle,Spanish,1466,12773,3,Tech Enthusiasts,2023-07-07
+DataTech Solutions,Social Media,Women 25-34,30 days,0.09,9203.26,6.65,San Francisco,Mandarin,546,3668,4,Outdoor Adventurers,2023-07-04
+Alpha Innovations,Email,Men 25-34,60 days,0.14,15043.63,6.89,Nueva York,French,719,16008,10,Foodies,2023-07-15
+DataTech Solutions,Social Media,Women 35-44,45 days,0.1,17752.12,3.99,Las Vegas,German,1574,13946,3,Foodies,2023-07-27
+NexGen Systems,Social Media,Men 18-24,30 days,0.08,11527.02,3.11,Los Ángeles,French,1564,1466,1,Outdoor Adventurers,2023-07-24
+Innovate Industries,Search,Women 35-44,15 days,0.08,13145.32,3.41,Seattle,French,579,1150,8,Outdoor Adventurers,2023-07-07
+DataTech Solutions,Search,Women 25-34,45 days,0.12,8032.93,7.46,Nueva York,English,1563,8919,9,Outdoor Adventurers,2023-07-19
+DataTech Solutions,Social Media,Men 25-34,15 days,0.02,17046.14,3.7,Las Vegas,German,1550,16670,3,Outdoor Adventurers,2023-07-24
+Alpha Innovations,Display,Women 35-44,60 days,0.14,6643.58,4.11,Nueva York,Spanish,598,16116,7,Fashionistas,2023-07-13
+NexGen Systems,Social Media,All Ages,45 days,0.13,18787.48,2.94,Boston,Spanish,1692,13489,4,Health & Wellness,2023-07-19
+TechCorp,Display,All Ages,15 days,0.03,16612.23,4.47,Boston,German,1319,18335,5,Outdoor Adventurers,2023-07-23
+DataTech Solutions,Influencer,Women 25-34,45 days,0.13,14260.05,5.49,Las Vegas,French,208,16739,4,Foodies,2023-07-08
+Innovate Industries,Search,Men 25-34,60 days,0.07,8837.15,3.32,San Francisco,German,936,11954,8,Fashionistas,2023-07-20
+Innovate Industries,Email,All Ages,45 days,0.02,11810.04,2.42,Washington D.C.,German,1764,10553,5,Health & Wellness,2023-07-13
+TechCorp,Influencer,Men 18-24,60 days,0.06,6506.43,3.86,San Francisco,French,1026,13640,7,Foodies,2023-07-24
+NexGen Systems,Display,Women 35-44,30 days,0.03,11750.08,2.73,Boston,German,686,8478,10,Fashionistas,2023-07-14
+Innovate Industries,Display,All Ages,30 days,0.07,8042.27,8.0,Chicago,English,1737,12764,10,Foodies,2023-07-14
+TechCorp,Influencer,All Ages,45 days,0.11,12565.88,7.98,Nueva Orleans,Spanish,1526,1137,1,Tech Enthusiasts,2023-07-19
+Alpha Innovations,Search,All Ages,30 days,0.15,19261.56,5.38,Nueva York,English,1886,15065,3,Fashionistas,2023-07-16
+DataTech Solutions,Influencer,Men 18-24,60 days,0.05,8390.25,4.67,Las Vegas,German,1028,14662,7,Tech Enthusiasts,2023-07-20
+Innovate Industries,Display,Men 25-34,15 days,0.04,8920.37,6.72,Las Vegas,German,1301,12293,7,Fashionistas,2023-07-29
+Innovate Industries,Social Media,All Ages,45 days,0.09,13314.96,2.58,Miami,Spanish,572,18174,7,Outdoor Adventurers,2023-07-23
+NexGen Systems,Email,Men 25-34,15 days,0.12,14972.54,5.43,Seattle,Spanish,267,15806,1,Foodies,2023-07-25
+Innovate Industries,Display,Women 25-34,15 days,0.09,6876.72,2.65,Boston,Spanish,1041,17073,9,Tech Enthusiasts,2023-07-15
+Innovate Industries,Display,Women 35-44,15 days,0.11,6405.41,6.09,Boston,English,1405,8878,8,Tech Enthusiasts,2023-07-17
+NexGen Systems,Search,Men 18-24,60 days,0.12,15174.34,2.78,Los Ángeles,French,1015,7465,3,Fashionistas,2023-07-14
+DataTech Solutions,Display,Women 25-34,30 days,0.03,19042.47,2.42,Boston,German,1407,8027,2,Outdoor Adventurers,2023-07-03
+Innovate Industries,Search,Women 25-34,15 days,0.11,12389.75,3.77,Seattle,French,808,6675,7,Outdoor Adventurers,2023-07-07
+DataTech Solutions,Search,Men 18-24,15 days,0.11,11107.0,4.7,Boston,Mandarin,1860,17025,5,Health & Wellness,2023-07-24
+NexGen Systems,Social Media,Men 18-24,45 days,0.05,14316.53,4.64,Chicago,German,776,19783,10,Fashionistas,2023-07-09
+NexGen Systems,Social Media,Men 25-34,30 days,0.12,11243.26,5.07,Washington D.C.,Mandarin,1252,9081,3,Health & Wellness,2023-07-02
+Innovate Industries,Social Media,Women 25-34,15 days,0.07,18415.13,7.5,Las Vegas,English,1421,3905,9,Health & Wellness,2023-07-07
+TechCorp,Email,All Ages,60 days,0.13,9561.93,7.89,Las Vegas,Spanish,947,18423,4,Tech Enthusiasts,2023-07-07
+DataTech Solutions,Social Media,Men 25-34,15 days,0.07,6223.87,5.19,Chicago,French,1244,10860,3,Fashionistas,2023-07-28
+TechCorp,Email,Men 25-34,30 days,0.07,18770.11,7.59,Seattle,Mandarin,1461,1001,2,Tech Enthusiasts,2023-07-24
+Innovate Industries,Search,All Ages,15 days,0.02,16855.99,3.02,Las Vegas,Spanish,919,1016,6,Health & Wellness,2023-07-21
+Alpha Innovations,Search,Women 35-44,15 days,0.11,14425.29,6.06,Los Ángeles,German,1970,4070,2,Tech Enthusiasts,2023-07-17
+TechCorp,Email,Women 35-44,15 days,0.14,19337.81,6.59,Washington D.C.,German,991,19667,6,Outdoor Adventurers,2023-07-22
+Innovate Industries,Influencer,Men 18-24,45 days,0.08,5543.4,4.53,Los Ángeles,German,352,12125,9,Fashionistas,2023-07-04
+DataTech Solutions,Social Media,Women 25-34,30 days,0.12,11841.82,5.65,Boston,French,1847,13865,8,Health & Wellness,2023-07-01
+DataTech Solutions,Email,Women 35-44,15 days,0.09,9948.54,6.44,Chicago,German,1192,10757,9,Tech Enthusiasts,2023-07-22
+NexGen Systems,Social Media,Men 18-24,30 days,0.1,15837.52,7.22,Las Vegas,Spanish,788,3442,4,Health & Wellness,2023-07-08
+TechCorp,Email,Women 25-34,60 days,0.07,11110.73,4.67,Seattle,German,1293,3546,8,Outdoor Adventurers,2023-07-29
+DataTech Solutions,Social Media,Women 25-34,60 days,0.01,9389.18,7.8,Nueva Orleans,German,1792,6224,1,Tech Enthusiasts,2023-07-06
+DataTech Solutions,Email,Men 18-24,45 days,0.03,14482.04,6.01,Miami,Mandarin,1747,19542,7,Fashionistas,2023-07-05
+TechCorp,Display,All Ages,30 days,0.03,19816.78,5.86,Washington D.C.,Mandarin,1465,5673,3,Outdoor Adventurers,2023-07-14
+DataTech Solutions,Email,Women 25-34,30 days,0.04,13237.22,2.56,San Francisco,German,580,15697,10,Tech Enthusiasts,2023-07-19
+Alpha Innovations,Search,Men 18-24,60 days,0.04,6497.76,7.12,Washington D.C.,German,1355,8094,9,Fashionistas,2023-07-29
+DataTech Solutions,Display,Men 25-34,60 days,0.03,5667.94,6.92,Boston,Mandarin,1483,2448,10,Outdoor Adventurers,2023-07-27
+NexGen Systems,Display,Women 25-34,60 days,0.06,12751.17,6.07,Miami,German,1732,1803,10,Outdoor Adventurers,2023-07-24
+DataTech Solutions,Email,All Ages,60 days,0.11,7481.94,5.92,Miami,German,819,5851,7,Tech Enthusiasts,2023-07-20
+DataTech Solutions,Email,Women 25-34,60 days,0.08,12748.94,6.44,Seattle,French,1247,3564,10,Health & Wellness,2023-07-29
+DataTech Solutions,Influencer,Men 25-34,45 days,0.12,16143.12,3.9,Seattle,English,1461,13674,2,Tech Enthusiasts,2023-07-16
+TechCorp,Social Media,Men 25-34,45 days,0.05,6847.65,2.17,Boston,German,1447,2752,5,Tech Enthusiasts,2023-07-14
+DataTech Solutions,Social Media,Women 35-44,15 days,0.09,6458.68,5.46,Los Ángeles,Mandarin,940,8871,5,Tech Enthusiasts,2023-07-24
+Alpha Innovations,Display,Men 18-24,60 days,0.13,5876.4,3.79,Los Ángeles,Mandarin,1083,13798,1,Tech Enthusiasts,2023-07-19
+NexGen Systems,Display,Men 18-24,15 days,0.12,16339.77,4.58,Seattle,English,721,13681,10,Foodies,2023-07-28
+Alpha Innovations,Search,Women 25-34,30 days,0.12,10192.85,2.79,Nueva York,French,1832,3826,10,Health & Wellness,2023-07-24
+TechCorp,Influencer,All Ages,60 days,0.13,11547.08,3.49,Los Ángeles,Mandarin,1498,10419,9,Health & Wellness,2023-07-10
+NexGen Systems,Social Media,Women 35-44,15 days,0.13,11515.99,2.52,Los Ángeles,English,1940,11671,4,Outdoor Adventurers,2023-07-19
+Innovate Industries,Social Media,Men 18-24,30 days,0.02,11536.08,3.19,San Francisco,English,1171,4348,3,Health & Wellness,2023-07-25
+Alpha Innovations,Display,All Ages,60 days,0.11,8402.51,4.95,Los Ángeles,Spanish,1857,7433,7,Tech Enthusiasts,2023-07-03
+DataTech Solutions,Display,Men 25-34,30 days,0.14,7919.31,4.08,Miami,Mandarin,552,6405,7,Health & Wellness,2023-07-14
+DataTech Solutions,Display,Men 18-24,30 days,0.12,8521.75,7.86,Los Ángeles,Mandarin,376,14629,1,Fashionistas,2023-07-10
+Alpha Innovations,Email,All Ages,45 days,0.02,17891.17,6.63,Chicago,English,1908,11193,6,Foodies,2023-07-29
+Alpha Innovations,Influencer,Women 35-44,15 days,0.14,9301.68,5.52,Miami,German,1555,5334,10,Health & Wellness,2023-07-25
+DataTech Solutions,Search,Women 35-44,30 days,0.03,6968.15,4.69,Miami,English,1968,11053,6,Foodies,2023-07-05
+Innovate Industries,Influencer,All Ages,45 days,0.1,9454.99,4.46,San Francisco,English,1383,16120,8,Outdoor Adventurers,2023-07-25
+TechCorp,Email,Women 25-34,60 days,0.07,8932.45,3.79,Boston,Mandarin,307,7933,6,Fashionistas,2023-07-17
+Innovate Industries,Display,Men 18-24,60 days,0.06,18143.93,5.27,Seattle,Spanish,1520,15029,10,Health & Wellness,2023-07-23
+Innovate Industries,Email,All Ages,15 days,0.04,9742.99,3.74,Boston,German,1788,8019,4,Health & Wellness,2023-07-25
+TechCorp,Search,Women 35-44,60 days,0.03,16624.86,2.11,Boston,Spanish,1965,6761,4,Outdoor Adventurers,2023-07-19
+Innovate Industries,Search,Men 25-34,30 days,0.13,10621.6,3.66,Las Vegas,English,1274,16400,2,Outdoor Adventurers,2023-07-19
+Innovate Industries,Display,Men 25-34,60 days,0.13,19279.35,4.64,San Francisco,German,1249,3915,1,Tech Enthusiasts,2023-07-21
+TechCorp,Social Media,All Ages,45 days,0.02,5316.36,4.65,Las Vegas,Mandarin,348,9109,2,Fashionistas,2023-07-14
+TechCorp,Search,Men 18-24,60 days,0.05,6538.18,5.75,Nueva York,German,1186,10561,9,Foodies,2023-07-11
+Innovate Industries,Display,Men 25-34,45 days,0.13,19063.6,4.51,San Francisco,Mandarin,1688,5220,10,Foodies,2023-07-27
+DataTech Solutions,Display,Women 25-34,45 days,0.05,5898.7,2.3,Washington D.C.,Spanish,783,15329,3,Health & Wellness,2023-07-22
+DataTech Solutions,Influencer,All Ages,30 days,0.07,14038.25,7.48,Chicago,Spanish,998,7961,10,Outdoor Adventurers,2023-07-19
+NexGen Systems,Display,Men 25-34,45 days,0.03,17599.72,7.04,Miami,English,1826,10697,7,Health & Wellness,2023-07-17
+TechCorp,Display,Women 35-44,60 days,0.06,17899.94,3.87,Nueva York,English,1241,6355,5,Health & Wellness,2023-07-02
+Innovate Industries,Social Media,Men 18-24,60 days,0.06,10653.84,4.58,Washington D.C.,German,1301,5667,7,Outdoor Adventurers,2023-07-05
+NexGen Systems,Influencer,All Ages,45 days,0.04,15742.44,4.17,Los Ángeles,Spanish,1280,18313,4,Fashionistas,2023-07-03
+TechCorp,Social Media,Women 25-34,45 days,0.14,15076.68,3.65,Seattle,Mandarin,761,6853,7,Health & Wellness,2023-07-26
+NexGen Systems,Influencer,Women 25-34,15 days,0.13,9419.32,5.91,San Francisco,English,1244,8086,8,Health & Wellness,2023-07-13
+Innovate Industries,Display,Women 25-34,15 days,0.11,9868.08,4.61,Miami,Mandarin,1875,19988,5,Outdoor Adventurers,2023-07-14
+DataTech Solutions,Search,Men 25-34,15 days,0.03,7735.85,6.2,Boston,Mandarin,1881,11657,7,Tech Enthusiasts,2023-07-05
+NexGen Systems,Search,Men 18-24,15 days,0.07,18406.68,2.14,Los Ángeles,French,1276,11402,8,Health & Wellness,2023-07-29
+Alpha Innovations,Display,All Ages,45 days,0.06,15629.32,7.63,Nueva Orleans,French,186,8363,8,Outdoor Adventurers,2023-07-17
+TechCorp,Influencer,Men 18-24,45 days,0.08,17846.11,7.87,Miami,German,791,18214,8,Tech Enthusiasts,2023-07-22
+Alpha Innovations,Influencer,Men 25-34,30 days,0.15,16778.23,7.72,Miami,German,1140,1256,5,Fashionistas,2023-07-26
+Alpha Innovations,Email,Men 25-34,45 days,0.13,11892.53,6.52,Nueva York,Spanish,621,17987,5,Fashionistas,2023-07-01
+Innovate Industries,Search,Women 25-34,30 days,0.05,9451.24,4.04,Los Ángeles,French,808,4982,5,Foodies,2023-07-03
+TechCorp,Email,Women 25-34,15 days,0.13,19049.37,6.91,Chicago,German,1561,11820,4,Fashionistas,2023-07-30
+DataTech Solutions,Influencer,Men 18-24,30 days,0.02,11897.29,2.57,Nueva York,Spanish,1686,2252,8,Tech Enthusiasts,2023-07-30
+Innovate Industries,Email,Women 25-34,60 days,0.02,15475.53,6.15,Chicago,Spanish,860,14703,7,Tech Enthusiasts,2023-07-27
+Alpha Innovations,Social Media,Men 18-24,15 days,0.13,6322.91,7.39,Seattle,Spanish,1670,15310,6,Foodies,2023-07-19
+DataTech Solutions,Social Media,Women 25-34,60 days,0.14,7504.77,3.9,Chicago,Mandarin,1549,13415,8,Outdoor Adventurers,2023-07-19
+TechCorp,Social Media,Men 25-34,15 days,0.14,19406.4,7.98,Los Ángeles,Mandarin,1403,4515,6,Fashionistas,2023-07-15
+Innovate Industries,Display,Men 25-34,45 days,0.02,8931.8,6.09,San Francisco,Spanish,1584,15740,4,Outdoor Adventurers,2023-07-26
+TechCorp,Email,All Ages,30 days,0.04,11699.0,4.22,Washington D.C.,English,1069,13712,2,Health & Wellness,2023-07-16
+Alpha Innovations,Social Media,Men 25-34,15 days,0.11,12658.21,7.23,Las Vegas,Spanish,1057,6702,4,Foodies,2023-07-27
+Alpha Innovations,Display,Men 18-24,45 days,0.11,17685.88,6.95,San Francisco,German,667,18906,4,Health & Wellness,2023-07-16
+NexGen Systems,Display,Men 25-34,45 days,0.15,15784.13,7.0,Las Vegas,English,368,8537,8,Tech Enthusiasts,2023-07-25
+NexGen Systems,Display,Women 35-44,45 days,0.06,9263.02,4.62,Los Ángeles,Mandarin,1574,8077,5,Tech Enthusiasts,2023-07-13
+TechCorp,Email,Men 25-34,30 days,0.15,9105.02,4.17,Los Ángeles,Spanish,1985,1791,10,Health & Wellness,2023-07-05
+Innovate Industries,Influencer,All Ages,30 days,0.11,17908.09,2.49,Washington D.C.,Spanish,1426,3996,5,Tech Enthusiasts,2023-07-14
+Innovate Industries,Email,Men 25-34,15 days,0.02,15358.7,7.82,Miami,English,1100,17539,9,Outdoor Adventurers,2023-07-07
+NexGen Systems,Email,Women 35-44,45 days,0.13,14464.07,3.91,Seattle,Mandarin,1250,4276,3,Tech Enthusiasts,2023-07-30
+NexGen Systems,Display,All Ages,30 days,0.07,9581.1,4.68,Los Ángeles,English,1642,14789,2,Foodies,2023-07-25
+Alpha Innovations,Display,Women 25-34,30 days,0.14,10595.3,6.79,Washington D.C.,Mandarin,1002,9302,7,Fashionistas,2023-07-28
+TechCorp,Email,Men 25-34,60 days,0.12,18857.79,6.13,Boston,Mandarin,433,2890,10,Health & Wellness,2023-07-29
+DataTech Solutions,Influencer,Women 25-34,60 days,0.13,7106.04,4.42,Boston,Mandarin,1280,19770,3,Tech Enthusiasts,2023-07-24
+NexGen Systems,Search,All Ages,45 days,0.08,7378.09,3.84,Nueva York,French,1251,10586,2,Outdoor Adventurers,2023-07-25
+Alpha Innovations,Influencer,Men 25-34,45 days,0.11,6137.92,6.67,Boston,English,1382,18359,9,Fashionistas,2023-07-26
+Innovate Industries,Social Media,Women 25-34,30 days,0.14,13752.38,5.28,San Francisco,English,1777,15887,1,Fashionistas,2023-07-24
+Alpha Innovations,Search,Women 25-34,60 days,0.11,16556.98,3.11,Seattle,English,969,1275,3,Tech Enthusiasts,2023-07-04
+NexGen Systems,Display,Men 18-24,60 days,0.14,15805.28,4.28,Miami,Spanish,453,5255,10,Health & Wellness,2023-07-05
+Innovate Industries,Social Media,Men 25-34,45 days,0.05,17405.75,2.01,Washington D.C.,Mandarin,1820,19049,6,Fashionistas,2023-07-22
+DataTech Solutions,Email,Men 25-34,60 days,0.1,13823.06,5.61,Chicago,French,1865,1199,7,Outdoor Adventurers,2023-07-11
+NexGen Systems,Social Media,Women 35-44,30 days,0.14,9738.76,5.7,Nueva York,English,1487,10509,5,Fashionistas,2023-07-17
+NexGen Systems,Social Media,Men 25-34,60 days,0.04,13425.81,4.98,Nueva York,German,1189,6172,1,Health & Wellness,2023-07-27
+NexGen Systems,Influencer,Men 18-24,60 days,0.04,16614.25,4.73,Los Ángeles,French,1763,12816,6,Foodies,2023-07-26
+NexGen Systems,Influencer,Women 25-34,15 days,0.06,9902.75,2.79,Washington D.C.,French,265,6003,2,Fashionistas,2023-07-19
+TechCorp,Email,All Ages,60 days,0.03,12383.66,7.22,Boston,French,1119,18524,1,Health & Wellness,2023-07-04
+Innovate Industries,Influencer,Women 35-44,45 days,0.11,16605.07,2.09,Washington D.C.,Spanish,1645,19471,2,Foodies,2023-07-01
+DataTech Solutions,Influencer,Women 35-44,15 days,0.02,10529.39,3.07,Los Ángeles,German,496,8350,8,Fashionistas,2023-07-10
+TechCorp,Social Media,Women 35-44,60 days,0.07,9308.87,3.3,Washington D.C.,English,1300,4304,9,Health & Wellness,2023-07-12
+TechCorp,Email,Women 25-34,30 days,0.05,15845.1,2.11,Chicago,French,1000,5069,8,Health & Wellness,2023-07-30
+DataTech Solutions,Email,All Ages,15 days,0.03,10674.04,4.56,Nueva Orleans,English,1491,19455,5,Outdoor Adventurers,2023-07-08
+TechCorp,Email,Men 18-24,60 days,0.05,12204.78,3.91,Nueva Orleans,French,1201,18909,3,Outdoor Adventurers,2023-07-18
+Alpha Innovations,Influencer,Men 18-24,45 days,0.13,8499.02,7.06,Seattle,English,183,13170,3,Outdoor Adventurers,2023-07-07
+Alpha Innovations,Email,Men 18-24,45 days,0.1,7668.71,2.24,Miami,German,850,5060,7,Foodies,2023-07-30
+TechCorp,Search,All Ages,15 days,0.14,18120.86,5.1,Nueva York,English,1450,3771,8,Outdoor Adventurers,2023-07-02
+DataTech Solutions,Search,Women 35-44,30 days,0.09,12314.8,2.78,Los Ángeles,German,594,16173,9,Tech Enthusiasts,2023-07-26
+NexGen Systems,Social Media,Men 25-34,30 days,0.11,9842.55,5.62,Nueva Orleans,French,1567,10245,7,Tech Enthusiasts,2023-07-05
+DataTech Solutions,Social Media,Women 25-34,60 days,0.02,15003.45,5.45,Nueva York,Spanish,897,1135,3,Health & Wellness,2023-07-10
+TechCorp,Email,Men 25-34,60 days,0.07,19769.47,7.86,Seattle,Spanish,899,4831,3,Outdoor Adventurers,2023-07-20
+TechCorp,Influencer,Men 25-34,30 days,0.11,12520.94,6.32,Nueva Orleans,Mandarin,975,2363,8,Outdoor Adventurers,2023-07-01
+NexGen Systems,Search,Men 18-24,45 days,0.1,5803.13,2.66,San Francisco,Spanish,251,7383,4,Health & Wellness,2023-07-05
+TechCorp,Email,All Ages,15 days,0.06,5186.8,4.38,Nueva York,French,1732,1102,6,Health & Wellness,2023-07-01
+TechCorp,Search,All Ages,45 days,0.04,7107.12,6.25,San Francisco,German,1709,7565,2,Fashionistas,2023-07-19
+NexGen Systems,Influencer,Men 18-24,30 days,0.13,14861.54,7.53,Nueva York,French,729,10320,3,Foodies,2023-07-28
+Alpha Innovations,Influencer,Women 25-34,30 days,0.03,12526.6,5.09,San Francisco,German,1364,1692,7,Fashionistas,2023-07-09
+DataTech Solutions,Social Media,Men 18-24,15 days,0.03,18853.87,5.62,Nueva York,French,811,9308,9,Fashionistas,2023-07-15
+Alpha Innovations,Search,Women 35-44,60 days,0.12,17211.46,6.88,Washington D.C.,French,1980,19327,4,Outdoor Adventurers,2023-07-27
+Innovate Industries,Email,Men 18-24,30 days,0.15,17935.23,6.56,Las Vegas,Spanish,167,9529,10,Tech Enthusiasts,2023-07-01
+NexGen Systems,Influencer,Men 25-34,15 days,0.13,6015.58,7.5,Chicago,French,1973,9978,1,Outdoor Adventurers,2023-07-18
+TechCorp,Influencer,Men 18-24,15 days,0.04,13198.3,7.44,Seattle,English,1647,13622,7,Fashionistas,2023-07-29
+DataTech Solutions,Influencer,Women 25-34,60 days,0.12,18855.5,4.12,San Francisco,French,281,4358,9,Health & Wellness,2023-07-28
+NexGen Systems,Email,All Ages,30 days,0.09,13333.27,3.3,Seattle,Spanish,940,15211,3,Foodies,2023-07-11
+TechCorp,Search,Women 25-34,45 days,0.07,12613.72,3.64,Nueva Orleans,German,387,9279,1,Health & Wellness,2023-07-20
+DataTech Solutions,Email,Women 25-34,45 days,0.12,17938.84,2.86,Boston,Mandarin,1715,19189,5,Tech Enthusiasts,2023-07-11
+DataTech Solutions,Search,Women 35-44,60 days,0.1,6253.39,4.34,Nueva Orleans,German,1975,10087,7,Tech Enthusiasts,2023-07-27
+Alpha Innovations,Email,Women 25-34,60 days,0.11,19775.19,7.64,Nueva Orleans,Mandarin,915,15952,1,Tech Enthusiasts,2023-07-06
+NexGen Systems,Display,Women 25-34,45 days,0.09,11302.25,7.52,San Francisco,German,1248,19109,7,Tech Enthusiasts,2023-07-08
+NexGen Systems,Display,Women 25-34,30 days,0.09,11398.24,4.32,Nueva Orleans,French,749,6752,3,Tech Enthusiasts,2023-07-07
+DataTech Solutions,Search,Women 25-34,45 days,0.11,13267.38,5.7,Los Ángeles,Spanish,339,1752,2,Tech Enthusiasts,2023-07-03
+Alpha Innovations,Email,All Ages,60 days,0.1,18907.76,6.47,Nueva York,Spanish,1420,13051,3,Health & Wellness,2023-07-24
+DataTech Solutions,Search,Men 25-34,45 days,0.04,5634.17,2.17,Nueva York,German,1110,18311,4,Foodies,2023-07-04
+Innovate Industries,Search,Men 25-34,45 days,0.11,19823.84,2.4,San Francisco,German,517,9270,8,Outdoor Adventurers,2023-07-25
+DataTech Solutions,Email,Women 25-34,15 days,0.04,8706.59,6.97,San Francisco,Mandarin,939,16430,1,Fashionistas,2023-07-12
+Innovate Industries,Email,Men 18-24,30 days,0.09,9097.83,4.61,Washington D.C.,Spanish,1945,2736,5,Outdoor Adventurers,2023-07-05
+Alpha Innovations,Display,Men 18-24,30 days,0.05,5068.65,7.04,Miami,English,1814,4212,5,Foodies,2023-07-02
+TechCorp,Display,All Ages,60 days,0.01,14854.01,2.33,Miami,German,1203,13305,6,Health & Wellness,2023-07-08
+TechCorp,Influencer,Men 18-24,30 days,0.02,10695.56,3.12,San Francisco,German,149,6958,8,Outdoor Adventurers,2023-07-01
+TechCorp,Search,Men 25-34,15 days,0.04,6904.52,3.3,San Francisco,Spanish,823,15654,3,Foodies,2023-07-23
+TechCorp,Influencer,Men 18-24,60 days,0.11,19195.47,5.15,Nueva York,Mandarin,983,15150,2,Health & Wellness,2023-07-09
+Innovate Industries,Display,Women 25-34,60 days,0.08,10834.93,6.19,Miami,German,985,10987,4,Outdoor Adventurers,2023-07-10
+Innovate Industries,Influencer,Men 25-34,15 days,0.03,15619.92,7.2,Chicago,Spanish,398,2094,7,Outdoor Adventurers,2023-07-24
+TechCorp,Influencer,Men 25-34,45 days,0.02,6953.94,3.79,Seattle,German,1071,6699,10,Foodies,2023-07-13
+DataTech Solutions,Social Media,Men 25-34,60 days,0.1,17124.06,3.73,Las Vegas,Spanish,1720,19792,3,Foodies,2023-07-05
+DataTech Solutions,Email,Women 25-34,45 days,0.02,6796.91,4.57,Las Vegas,Spanish,516,13581,8,Tech Enthusiasts,2023-07-01
+TechCorp,Display,Men 18-24,15 days,0.1,19518.46,4.61,San Francisco,English,1327,18813,7,Foodies,2023-07-28
+Innovate Industries,Display,Men 25-34,30 days,0.14,13063.16,2.16,Nueva Orleans,German,666,5677,8,Health & Wellness,2023-07-07
+TechCorp,Search,Women 25-34,60 days,0.1,5892.78,3.96,Seattle,German,925,13219,1,Foodies,2023-07-22
+NexGen Systems,Display,Women 35-44,60 days,0.05,8820.22,6.97,Miami,Mandarin,1997,18673,1,Outdoor Adventurers,2023-07-15
+DataTech Solutions,Email,Women 25-34,60 days,0.11,10186.97,7.6,Nueva Orleans,German,1660,2751,6,Foodies,2023-07-14
+DataTech Solutions,Search,Women 35-44,15 days,0.13,16561.47,4.22,San Francisco,German,1159,14584,3,Fashionistas,2023-07-10
+Alpha Innovations,Social Media,Women 25-34,30 days,0.1,19124.62,2.48,Washington D.C.,German,1902,17657,9,Outdoor Adventurers,2023-07-29
+TechCorp,Search,All Ages,15 days,0.04,11321.16,7.46,Miami,French,746,4853,10,Fashionistas,2023-07-18
+NexGen Systems,Influencer,Men 25-34,60 days,0.08,5756.65,4.34,San Francisco,English,985,18863,5,Foodies,2023-07-27
+DataTech Solutions,Email,Women 25-34,30 days,0.15,9944.09,2.33,Boston,French,1434,2116,4,Outdoor Adventurers,2023-07-07
+Alpha Innovations,Display,Women 25-34,45 days,0.06,14767.88,7.93,San Francisco,French,208,2183,1,Foodies,2023-07-15
+DataTech Solutions,Display,Women 35-44,15 days,0.03,16736.24,2.26,Las Vegas,English,947,18742,3,Tech Enthusiasts,2023-07-07
+TechCorp,Search,All Ages,60 days,0.09,19465.54,4.35,Nueva York,Mandarin,746,10233,5,Outdoor Adventurers,2023-07-28
+Alpha Innovations,Email,Men 18-24,45 days,0.13,13186.35,2.6,Los Ángeles,English,762,15082,4,Tech Enthusiasts,2023-07-24
+Alpha Innovations,Email,Men 25-34,15 days,0.09,9272.31,3.69,Nueva York,English,635,2582,8,Fashionistas,2023-07-28
+NexGen Systems,Social Media,Women 25-34,15 days,0.13,12998.59,6.01,Nueva York,German,626,6795,3,Fashionistas,2023-07-28
+Innovate Industries,Influencer,Men 18-24,60 days,0.11,5334.52,2.87,Nueva York,English,242,7474,1,Outdoor Adventurers,2023-07-07
+DataTech Solutions,Influencer,Men 18-24,15 days,0.09,6503.51,2.03,Nueva Orleans,Spanish,1596,10535,1,Health & Wellness,2023-07-14
+NexGen Systems,Email,Men 25-34,60 days,0.11,6499.05,6.57,Nueva Orleans,French,1612,13183,5,Foodies,2023-07-05
+NexGen Systems,Email,All Ages,45 days,0.07,18508.85,2.45,Las Vegas,German,1601,17322,7,Health & Wellness,2023-07-28
+Alpha Innovations,Influencer,Men 25-34,60 days,0.12,12988.26,5.66,Las Vegas,Spanish,1360,4506,8,Tech Enthusiasts,2023-07-02
+TechCorp,Social Media,Men 25-34,45 days,0.04,13753.69,7.11,Boston,French,1559,14049,2,Foodies,2023-07-09
+DataTech Solutions,Email,Women 35-44,15 days,0.03,13150.62,7.64,Los Ángeles,Spanish,1057,19684,4,Fashionistas,2023-07-20
+Innovate Industries,Display,Men 25-34,15 days,0.08,13659.01,6.95,Nueva Orleans,French,1515,12101,4,Fashionistas,2023-07-01
+DataTech Solutions,Search,Women 25-34,15 days,0.11,16008.99,6.01,Las Vegas,Spanish,797,5180,3,Tech Enthusiasts,2023-07-23
+TechCorp,Email,All Ages,15 days,0.01,14541.5,6.38,San Francisco,German,233,18592,5,Outdoor Adventurers,2023-07-16
+TechCorp,Influencer,Men 18-24,30 days,0.13,11070.87,5.06,Miami,German,126,16477,7,Foodies,2023-07-15
+TechCorp,Influencer,Women 35-44,45 days,0.02,16595.92,6.78,Miami,German,370,2373,6,Fashionistas,2023-07-28
+Innovate Industries,Influencer,Women 35-44,45 days,0.12,5515.8,7.26,Miami,German,1295,3137,5,Health & Wellness,2023-07-12
+NexGen Systems,Display,Men 25-34,30 days,0.15,13698.32,3.78,San Francisco,Mandarin,1267,14321,6,Foodies,2023-07-07
+NexGen Systems,Search,Men 18-24,15 days,0.04,17684.68,5.22,Washington D.C.,Mandarin,309,12054,4,Outdoor Adventurers,2023-07-07
+Alpha Innovations,Influencer,All Ages,45 days,0.12,10992.07,2.68,San Francisco,French,208,19230,9,Foodies,2023-07-21
+DataTech Solutions,Email,Women 35-44,30 days,0.08,15947.29,2.5,Nueva York,Mandarin,152,13870,5,Fashionistas,2023-07-20
+DataTech Solutions,Social Media,Men 18-24,45 days,0.12,11646.69,3.63,Seattle,French,606,15525,5,Tech Enthusiasts,2023-07-04
+TechCorp,Email,Women 25-34,15 days,0.1,7972.42,5.09,Nueva York,German,775,19484,6,Foodies,2023-07-15
+Innovate Industries,Display,Women 35-44,45 days,0.05,13681.12,2.22,Seattle,German,1762,8474,3,Fashionistas,2023-07-28
+NexGen Systems,Email,Men 25-34,30 days,0.11,12671.33,6.16,Los Ángeles,English,308,7822,6,Health & Wellness,2023-07-06
+Alpha Innovations,Influencer,Men 25-34,60 days,0.05,19846.61,3.22,Miami,Mandarin,1138,17877,9,Fashionistas,2023-07-23
+DataTech Solutions,Email,All Ages,30 days,0.14,18358.58,6.65,Boston,French,1657,3340,8,Fashionistas,2023-07-18
+Innovate Industries,Influencer,Men 25-34,45 days,0.13,16986.08,6.55,Seattle,Mandarin,490,10152,9,Fashionistas,2023-07-20
+TechCorp,Influencer,Women 35-44,45 days,0.12,19820.76,4.5,Chicago,English,393,4303,10,Fashionistas,2023-07-24
+NexGen Systems,Email,Men 25-34,15 days,0.14,5697.62,4.65,Boston,German,330,3214,9,Health & Wellness,2023-07-15
+TechCorp,Display,Men 25-34,60 days,0.1,11166.13,6.03,San Francisco,Mandarin,474,16937,2,Outdoor Adventurers,2023-07-05
+TechCorp,Email,Men 18-24,15 days,0.14,14369.03,4.95,Boston,Mandarin,1452,8240,8,Health & Wellness,2023-07-14
+NexGen Systems,Email,Men 25-34,60 days,0.08,12148.02,4.56,Las Vegas,Mandarin,746,5799,1,Health & Wellness,2023-07-29
+DataTech Solutions,Search,Men 25-34,60 days,0.11,5817.22,7.82,San Francisco,French,250,19158,3,Foodies,2023-07-21
+NexGen Systems,Influencer,All Ages,30 days,0.03,13503.42,7.74,Las Vegas,Spanish,1444,12817,2,Health & Wellness,2023-07-26
+DataTech Solutions,Search,Men 18-24,45 days,0.12,16357.77,3.73,San Francisco,English,1136,4668,9,Tech Enthusiasts,2023-07-20
+NexGen Systems,Search,Women 35-44,60 days,0.09,9545.37,4.49,Nueva Orleans,Spanish,599,1110,10,Fashionistas,2023-07-13
+Alpha Innovations,Social Media,All Ages,15 days,0.12,8589.62,2.58,Nueva York,English,127,10900,4,Foodies,2023-07-11
+DataTech Solutions,Influencer,All Ages,45 days,0.03,18995.56,6.05,Las Vegas,Mandarin,381,1948,2,Fashionistas,2023-07-19
+TechCorp,Search,All Ages,60 days,0.02,19531.75,5.51,Boston,Mandarin,180,7897,5,Fashionistas,2023-07-16
+DataTech Solutions,Influencer,Men 18-24,15 days,0.12,16640.06,2.69,Nueva York,German,1842,6109,5,Tech Enthusiasts,2023-07-04
+NexGen Systems,Display,All Ages,45 days,0.01,6818.12,6.26,San Francisco,Spanish,749,13451,1,Health & Wellness,2023-07-28
+Innovate Industries,Email,All Ages,15 days,0.1,16674.79,6.25,Washington D.C.,Mandarin,384,7441,1,Foodies,2023-07-19
+Alpha Innovations,Search,Men 18-24,45 days,0.15,8634.44,6.58,Chicago,Mandarin,1260,16199,8,Health & Wellness,2023-07-02
+DataTech Solutions,Influencer,Men 18-24,30 days,0.03,12216.26,5.1,Chicago,Mandarin,1439,12522,3,Tech Enthusiasts,2023-07-02
+TechCorp,Influencer,All Ages,45 days,0.08,8358.79,4.1,Seattle,Spanish,640,2267,5,Fashionistas,2023-07-04
+NexGen Systems,Social Media,Women 35-44,30 days,0.13,11924.94,6.86,Nueva Orleans,French,1780,17720,5,Foodies,2023-07-03
+Alpha Innovations,Social Media,Men 18-24,15 days,0.1,17500.07,7.94,Miami,French,740,6634,7,Health & Wellness,2023-07-12
+NexGen Systems,Social Media,Men 25-34,60 days,0.06,10909.66,7.88,Seattle,Spanish,665,6435,8,Fashionistas,2023-07-14
+DataTech Solutions,Search,Men 18-24,30 days,0.01,16819.23,3.15,Miami,German,571,6629,8,Tech Enthusiasts,2023-07-17
+NexGen Systems,Display,Women 35-44,45 days,0.07,16799.69,7.5,Nueva Orleans,English,1758,17775,2,Health & Wellness,2023-07-19

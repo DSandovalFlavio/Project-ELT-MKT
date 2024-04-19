@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: twitter_ads_slvr
+  - name: email_slvr
+  - name: google_ads_slvr
+  - name: facebook_ads_slvr
+  - name: instagram_ads_slvr
+  - name: youtube_ads_slvr

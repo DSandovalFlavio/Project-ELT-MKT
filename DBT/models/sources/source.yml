@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: bronce_mkt
+    tables:
+      - name: email_raw
+      - name: facebook_ads_raw
+      - name: google_ads_raw
+      - name: instagram_ads_raw
+      - name: twitter_ads_raw
+      - name: youtube_ads_raw
